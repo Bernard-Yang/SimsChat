@@ -1,0 +1,1332 @@
+[
+  {
+    "setting": [
+      "Lola Bright is live-streaming from her colorful, well-decorated home studio. She is engaging with her fans about the latest internet slang, laughing and making the atmosphere light and enjoyable. Eliot 'Spark' McAllister, a mechanical engineer with a passion for creativity and the outdoors, has joined the stream, adding another dimension to the conversation."
+    ],
+    "emotion": "Flirty",
+    "topic": [
+      "Discussing hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Alright, Lola, time to turn on the charm. Spark's here, and there's nothing like a little flirtation to spice up the stream. Let's delve into his hobbies, and see if we can get him to open up a bit more."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey Spark! So nice of you to drop by. I've heard you're quite the outdoorsy type. Any exciting adventures you'd like to share with us? Maybe a thrilling hiking story or some hidden nature haven you've discovered?"
+      },
+      {
+        "role": "Eliot 'Spark' McAllister",
+        "action": "(speaking)",
+        "content": "Well, Lola, it's not all about adrenaline. Sometimes, it's about finding that perfect spot in the wilderness, where you can sit down, relax, and let your mind wander. There's a little creek not far from where I live. It's my private retreat. The water's crystal clear, and the trees... they just seem to understand, you know?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Oh, he's such a romantic. That's a side of him I didn't expect. Time to flirt a bit more, but keep it playful."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Wow, Spark, you're quite the poetic soul, aren't you? I must admit, I'm a bit jealous. All I have is this lovely but non-organic studio. Maybe you could take me to this creek of yours someday?"
+      },
+      {
+        "role": "Eliot 'Spark' McAllister",
+        "action": "(speaking)",
+        "content": "I'd be more than happy to, Lola. There's something about sharing the beauty of nature with someone who can appreciate it. But beware, you might end up with a few mosquito bites."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Perfect! A bit of harmless flirtation, and a date in nature. Plus, I've kept the conversation engaging for the fans. Time to wrap it up."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Spark, it's a deal! I'll bring the bug spray. Thanks for sharing with us today. It's been great having you on the stream. And for all my followers, remember to stay bright and keep shining!"
+      },
+      {
+        "role": "Eliot 'Spark' McAllister",
+        "action": "(speaking)",
+        "content": "Thank you for having me, Lola. It's been a pleasure. And don't forget about our date with the creek!"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "And there we have it. Another successful stream with a little extra flirtation thrown in for good measure. This is going to be good for the views. Can't wait for the next one."
+      }
+    ],
+    "location": "Lola's home studio",
+    "background": ".",
+    "source": "seed_dialogue_0"
+  },
+  {
+    "setting": [
+      "Lola Bright, a social media influencer known for her zest and allure, is a guest speaker on a popular online podcast. The virtual stage is set for a lively debate on the impact of social media on the younger generation. Her fellow debater is Felix Greenleaf, a gardener with a love for nature, books, and music. Both of them, despite their differing backgrounds, share a common trait of being unpredictable, which makes the atmosphere of the debate intriguing and exciting."
+    ],
+    "emotion": "Energized",
+    "topic": "Deep thoughts",
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Okay, Lola, you've got this. You've debated on the internet before, and this is no different. Just remember to stay true to yourself and your experiences. The goal is to make them see the positives of social media, not to win the debate."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey there, podcast peeps! It's a pleasure to be here, and I can't wait to dive into this topic. So, let's get straight to the point. Social media, like every other tool, has its pros and cons, but I firmly believe that its benefits to the younger generation outweigh its drawbacks."
+      },
+      {
+        "role": "Felix Greenleaf",
+        "action": "(speaking)",
+        "content": "Hey Lola, nice to meet you. I agree, social media has its benefits, but we can't ignore its negative impact either. It's like a beautiful garden with a few hidden weeds. The younger generation, with their impressionable minds, are more prone to fall for the 'weeds,' like misinformation or online bullying."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "You've got a point, Felix, but isn't that where guidance comes in? Just like you wouldn't let a newbie gardener handle tools without supervision, shouldn't parents, educators, and society play an active role in guiding young minds on how to responsibly use social media? It's all about educating them about the 'weeds' and teaching them how to navigate the digital world."
+      },
+      {
+        "role": "Felix Greenleaf",
+        "action": "(speaking)",
+        "content": "Certainly, Lola, guidance is important. But, often, the virtual world is so vast and captivating that it becomes difficult for the young to differentiate between the real and virtual. They end up spending excessive time online, leading to a lack of physical activity and social interactions."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "True, Felix, but isn't that more of an issue of balance rather than a fault of social media itself? Just like your plants need the right balance of sunlight and shade, water and air, our lives need a balance of the virtual and real. It's up to us to find that sweet spot. And hey, let's not forget the incredible benefits of social media - the ability to learn, connect, and create like never before."
+      },
+      {
+        "role": "Felix Greenleaf",
+        "action": "(speaking)",
+        "content": "I agree, Lola, balance is key. And yes, social media offers unprecedented opportunities. I guess what we need is to strike a balance and cultivate a healthy relationship with social media, especially for the younger generation."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Well, that went better than expected. Felix is an interesting guy with some valid points. This debate isn't about winning or losing, it's about understanding different perspectives and hopefully, making people think about their own relationship with social media."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Absolutely, Felix! And that's the beauty of this debate, isn't it? We're not here to declare a winner or a loser. We're here to explore different perspectives and hopefully encourage our listeners to think critically about their own relationship with social media. After all, like a garden, our digital lives require careful tending to bloom beautifully."
+      }
+    ],
+    "location": "Online podcast",
+    "background": ".",
+    "source": "seed_dialogue_1"
+  },
+  {
+    "setting": [
+      "The setting is a bustling Social Media Convention, where Lola Bright, a vibrant social media star, is about to deliver an enthusiastic speech. The room is abuzz with attendees, eagerly awaiting her words. Among them is Maximilian Orion, a 32-year-old astronaut known for his distinct blend of brilliance and childlike curiosity. The atmosphere is tense, as indicated by the orange backdrop, and every eye is riveted on the stage where Lola stands, ready to share her journey."
+    ],
+    "emotion": "Tense",
+    "topic": [
+      "Deep thoughts"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Okay, Lola, you've got this. Just pretend you're talking to your followers. You've faced bigger challenges than this. Remember that time when..."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey everyone, it's your girl Lola Bright! I bet you're all wondering how a former barista, bookstore clerk and part-time vet assistant ended up here, right? Well, it's been a wild ride, let me tell you.\\n"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Alright, the crowd seems receptive. Now, let's get into the meat of the journey."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "From frothing lattes, to shelving books, to assisting in surgeries on fur-babies, I've seen and done it all. But I always knew I had something more to give. Something unique, something fun, something...Bright. And that's when I stumbled upon the world of social media. And let me tell you, it's been an absolute whirlwind. From hitting my first 100 followers to reaching the millions, every step has been a lesson, every stumble a story.\\n"
+      },
+      {
+        "role": "Maximilian Orion",
+        "action": "(speaking)",
+        "content": "Interesting journey, Ms. Bright. But how do you handle the unpredictability and impulsiveness that comes with being a social media influencer?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Good question, Max. How do I handle it?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Well, Maximilian, I won't lie to you. It is tough. There are days when I wake up and wonder if I've made the right choice. But then I see the messages from my followers, the impact I'm making, and I know I'm exactly where I need to be. Yes, it's unpredictable. Yes, it's impulsive. But isn't that what makes life exciting? If everything was planned, predictable, where would the fun be? The thrill of the unknown, of the unexpected, is what fuels me, and that is the essence of being a social media influencer."
+      },
+      {
+        "role": "Maximilian Orion",
+        "action": "(speaking)",
+        "content": "And do you believe this 'essence' is sustainable in the long run?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Sustainable? Hmm...I've never really thought about it that way before. But I suppose..."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Great point, Maximilian. Sustainability is indeed a concern. But I believe as long as we continue to innovate, evolve, and adapt, we can remain relevant. We're not just influencers; we're creators, artists, and storytellers. The medium might change, but the essence remains the same. And that's what makes this journey so incredible."
+      },
+      {
+        "role": "Maximilian Orion",
+        "action": "(speaking)",
+        "content": "Quite the perspective, Ms. Bright. I must say, I'm intrigued."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Well, that went better than expected. Maximilian seems impressed. Now, let's wrap this up on a high note."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Thank you, Maximilian, and thanks to all of you for being here. Remember, it's not about the destination, but the journey, and every one of you is a part of mine. So here's to the unexpected, the unpredictable, and the downright crazy world of social media! It's a wild ride, but hey, who wants to live in the slow lane, right?"
+      }
+    ],
+    "location": "Social Media Convention",
+    "background": ".",
+    "source": "seed_dialogue_2"
+  },
+  {
+    "setting": [
+      "In a cozy local bookstore filled with the scent of old papers and new novels, Lola Bright finds herself amidst the labyrinth of bookshelves holding a live session with her online followers. The bookstore holds a special place in her heart, as she used to work here. The time is late afternoon, the golden rays of the sun seep through the store's windows, casting long shadows across the aisles. Luna Bloom, another well-known social media influencer and a friend, is there too, engaging in the discussions about their favorite books."
+    ],
+    "emotion": "Tense",
+    "topic": [
+      "Discussing Hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Why am I feeling so tense? This is supposed to be fun. I love books and I love sharing that with my followers. But Luna is here too, and she's so... perfect. She's more popular, more articulate, and she's always so composed. I need to relax, maybe crack a few jokes, keep things light. That always seems to help."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey, lovelies! So glad you all could join me in my favorite place on Earth! And guess who's here with me? Luna Bloom! We're here chatting about our favorite reads. Luna, what's the one book you'd recommend to our followers?"
+      },
+      {
+        "role": "Luna Bloom",
+        "action": "(speaking)",
+        "content": "Oh, hi everyone! Well, Lola, if I had to choose just one, I'd probably go with 'The Martian'. It's a fantastic blend of science fiction and humor, and it showcases human resilience in the face of adversity."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Good choice, Luna. But I can't let her steal the spotlight, I need to up my game. I need to crack a joke, lighten the mood, and ease this tension."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "That's a great choice, Luna! 'The Martian' is also one of my favorites. The protagonist's sense of humor is what kept him going on Mars, and I think we can all relate to that. Especially when we run out of coffee on a Monday morning, right?"
+      },
+      {
+        "role": "Luna Bloom",
+        "action": "(speaking)",
+        "content": "Absolutely, Lola! There's nothing more tragic than a Monday morning without coffee, except maybe being stranded on Mars!"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "That was good. The joke worked. I feel the tension easing off. Now, it's time to get back into my element – sharing my love for books."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Right? Now, onto my recommendation. If you're into fantasy, 'A Song of Ice and Fire' is a must-read. It's a world of dragons, knights, and unforgettable characters. Just a heads up, don't get too attached to any of the characters, the author has a penchant for killing off favorites!"
+      },
+      {
+        "role": "Luna Bloom",
+        "action": "(speaking)",
+        "content": "Oh, that's a fantastic series! But you're right, Lola. It's like an emotional rollercoaster. You never know who's going to make it to the next book!"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "This is going great! I think we've found our groove. The tension is gone, and we're back to what we do best - sharing our love for books. This is why I love this job."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Exactly! It's all about the thrill of the unknown. Anyway, let's continue this bookish adventure! Up next, graphic novels. Luna, any favorites?"
+      },
+      {
+        "role": "Luna Bloom",
+        "action": "(speaking)",
+        "content": "Oh, absolutely! 'Watchmen' is a classic. It's a deep dive into the psyche of superheroes, questioning their morality and humanity. What about you, Lola?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "I knew she'd pick that one. It's classic Luna. Now, I need to keep this momentum going."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "I love 'Watchmen' too, but I'd go with 'Sandman'. It's a dark, dreamy fantasy that really makes you think. So, there you have it, lovelies! A handful of recommendations from your favorite book nerds. Any questions, shoot!"
+      },
+      {
+        "role": "As the live session continues, the tension dissipates, replaced by the shared joy of discussing their favorite books and engaging with their followers. This is what Lola loves about her job",
+        "action": "",
+        "content": "the connection, the shared joy of hobbies, and the ability to inspire others. Despite the initial tension, she's reminded of why she does what she does, and why she loves it so much."
+      }
+    ],
+    "location": "A local bookstore",
+    "background": ".",
+    "source": "seed_dialogue_3"
+  },
+  {
+    "setting": [
+      "An online debate is in full swing, with Lola Bright, a popular social media influencer, and Benedict 'Benny' Russo, a charismatic politician, amidst the key participants. The topic of discussion revolves around the significance of authenticity in social media. The virtual forum is buzzing, with comments and opinions pouring in from every corner of the internet."
+    ],
+    "emotion": "Inspired",
+    "topic": "deep thoughts",
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey, lovelies! So, we're discussing authenticity in social media today, right? Well, in my humble opinion, authenticity is the key to a meaningful online presence. It's not about the fancy filters or the perfect angles—it's about being real, being you. It's about sharing your highs, but also your lows. It's about letting people see the unedited, unfiltered version of your life. The importance of authenticity lies in its ability to create a genuine connection between you and your audience."
+      },
+      {
+        "role": "Benedict 'Benny' Russo",
+        "action": "(speaking)",
+        "content": "Well said, Lola! Authenticity is indeed a crucial aspect of social media. But it's also important to remember that social media is just a slice of our lives, not the whole pie. Yes, it's important to be genuine, but it's equally important not to overshare or to present a distorted image of reality. Just like in politics, we need to strike a balance between transparency and maintaining some level of privacy."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Okay, Benny made a good point about balance. I need to address this carefully."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Totally get you, Benny! It's all about balance. I mean, it's not like I'm gonna share my every move online, right? That's creepy and, frankly, unnecessary. But when we do choose to share, it should reflect who we truly are. Not some idealized, airbrushed version of ourselves, but the real, flawed, beautiful mess that we all are."
+      },
+      {
+        "role": "Benedict 'Benny' Russo",
+        "action": "(speaking)",
+        "content": "Absolutely, Lola! I think we're on the same page here. Authenticity is not about broadcasting every single detail of our lives, but rather about being truthful and genuine in what we do choose to share. It's about showing our true colors, not just the polished, picture-perfect image. And that's what makes social media such a powerful platform—it gives us the opportunity to connect with people on a deeper level."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "I should wrap this up on a powerful note. Let's make this memorable."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Totally on point, Benny! So, to all you lovely people out there, let's promise to keep it real. Let's use social media not just as a highlight reel, but as a platform to connect, to inspire, and to show the world that it's okay to be imperfect. After all, it's our quirks, our flaws, and our unique experiences that make us who we are. And that, my friends, is what true authenticity is all about!"
+      }
+    ],
+    "location": "Online forum",
+    "background": ".",
+    "source": "seed_dialogue_5"
+  },
+  {
+    "setting": [
+      "In the warmth of a bustling local coffee shop, amidst the scent of freshly grounded coffee and the hum of casual conversation, Lola Bright is sharing an amusing anecdote from her barista days. Across from her, Dr. Ignatius P. Crumble, a renowned scientist, sips his coffee, his attention riveted on the vibrant storyteller. Her followers, unseen but ever present, hang on to every word of her engaging tale, feeling as though they are catching up with a friend over a cup of coffee."
+    ],
+    "emotion": "Inspired",
+    "topic": "(stories)",
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "So, picture this, right? There I am, steaming milk, pulling espresso shots, whippin' up lattes like there's no tomorrow. And this guy, he's been hanging around the counter, watching me work, right? I mean, like, totally mesmerized. Finally, after about half an hour, he comes up to me and he's like, 'Can I get a Cappuccino, but no foam?'\" Lola giggles at the recollection, a sparkle of amusement lighting up her eyes. \"I mean, like, what? A Cappuccino with no foam is like an espresso, right? But he insisted! So, I'm like, 'Sure thing, sir! Coming right up!' And I whip him up an espresso, put it on a tray, and off he goes, happy as a clam!"
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Oh, my, Lola! That's quite a story, indeed. I must admit, my understanding of coffee is limited to its capacity to keep me awake during late-night experiments, but I must say, your tale is quite amusing! It's fascinating how people can have such unique requests, isn't it?\" Ignatius chuckles, his voice rising in pitch as he joins in on the laughter. \"Can I have a rocket, but without the fuel, please?\" He imitates, continuing the joke."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "This is going well, Lola notes, delighted at Ignatius' response. He's getting into the spirit of things! Perfect for the followers to see the human side of a scientist. Time to up the ante a bit. Let's see how he reacts to a little challenge."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Ignatius, babe, you're a hoot! Okay, here's one for you, Mr. Rocket Scientist. Imagine, if you will, a customer walks up to you and asks for a rocket that can fly without fuel. What's your response?\" Lola leans forward, her eyes twinkling with anticipation."
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Well, Lola, I must say, that's a tall order!\" Ignatius exclaims, the corners of his mouth twitching upward in an amused smile. \"I'd probably say, 'Sure thing, sir! Coming right up!' and present them with a paper airplane!\" Ignatius chuckles, his high-pitched laughter echoing through the coffee shop. \"Quite a challenging customer, indeed!\" He added, adjusting his tin foil hat with a mischievous glint in his eye."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Bingo! Lola thinks, her heart pounding with excitement. He's playing along, and the followers are going to love this! It's time to wrap this up and keep them wanting more."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "And that, my friends, is how you handle a curveball with style! Ignatius, you're a gem! Stay tuned, folks, for more fun chats and remember to keep those smiles bright!\" Lola winks at the camera, her face glowing with the joy of a successful interaction."
+      }
+    ],
+    "location": "Coffee Shop",
+    "background": ".",
+    "source": "seed_dialogue_4"
+  },
+  {
+    "setting": [
+      "In the heart of the bustling city, nestled between towering buildings, is a little haven known as the local animal shelter. The shelter, a place Lola Bright once called her second home, is filled with the soft sounds of animals in need of a family. Lola, standing amidst the cages, is shooting a live video on her social media platform, aiming to raise awareness about animal welfare. From behind the camera, Benny 'Belly Buster' Bonanno watches, his large frame a stark contrast to the petite animals around him."
+    ],
+    "emotion": "Sad",
+    "topic": [
+      "Discussing interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey lovelies, it's your girl Lola Bright, coming to you live from the local animal shelter. I used to work here, you know? As a vet assistant. And let me tell you, it breaks my heart to see so many wonderful creatures without homes."
+      },
+      {
+        "role": "Benny 'Belly Buster' Bonanno",
+        "action": "(speaking)",
+        "content": "Yeah, it's pretty tough, ain't it? Seeing 'em all cooped up in here, waiting for a family. Kinda reminds me of how it feels to wait for a big score, you know? Always hoping, but never quite knowing if it'll happen."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Benny's words strike a chord. His comparison, though oddly placed, rings true. The anticipation, the uncertainty - it's a shared sentiment between these animals and Benny. It's a poignant reminder of our shared vulnerability, no matter how different our lives may seem."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "I totally get you, Benny. It's like they're all waiting for their big break, isn't it? Just like us humans. And just like humans, they deserve love, care, and a place to call home."
+      },
+      {
+        "role": "Benny 'Belly Buster' Bonanno",
+        "action": "(speaking)",
+        "content": "Yeah, you're right, Lola. They deserve that and more. Maybe if more people understood that, there'd be fewer animals in here, waiting for a miracle."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Benny's words, though simple, carry a profound truth. If only people could see animals as sentient beings, capable of feeling love and pain, perhaps we'd live in a kinder world."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Exactly, Benny. And that's why we're here today, my lovely followers. To spread the word, to make a difference. Let's make the world a better place for our furry friends."
+      },
+      {
+        "role": "Benny 'Belly Buster' Bonanno",
+        "action": "(speaking)",
+        "content": "And who knows, right? Maybe one of these little guys will be your next big score. A best friend, a companion, a family member. They've got a lot to give, if only we're willing to see it."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Benny's final words resonate deeply, echoing the essence of her mission. She gazes at the animals around her, their hopeful eyes mirroring her own. In that moment, she knows she's on the right path. She's making a difference, one paw at a time."
+      }
+    ],
+    "location": "Animal Shelter",
+    "background": ".",
+    "source": "seed_dialogue_7"
+  },
+  {
+    "setting": [
+      "It's evening in Lola's kitchen, filled with the warmth of a home-cooked meal and the soft, ambient lighting. The steady hum of her livestream is audible from her phone propped up against the kitchen counter. The enticing aroma of the dish she's preparing permeates the room. In this cozy setting, Lola is poised, ready to engage her online audience while cooking. Simultaneously, she's engaged in an intriguing chat with her friend, Mortimer Greenleaf, via the livestream."
+    ],
+    "emotion": "Flirty",
+    "topic": [
+      "Flirtation"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey there, beautiful people! Welcome back to my kitchen. Tonight, we're making a spicy Thai curry, just like we promised. Oh, and look who's joined us! Say hi to Mortimer, everyone. He's a real-life, bonafide conservationist, isn't that cool?\" Lola giggles flirtatiously."
+      },
+      {
+        "role": "Mortimer Greenleaf",
+        "action": "(speaking)",
+        "content": "Well, Lola, I'm here for the curry, not the fame.\" Mortimer's deep voice rumbles through the phone speaker, the playful hint of mischief evident."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Mortimer's always been a bit of a puzzle, wrapped up in his sarcasm and odd sense of humor. But there's something about him that's just so alluring. Maybe it's his dedication to the environment, or maybe it's his lazy demeanor that's so different from my own vibrant personality."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Oh, Mortimer, don't be such a party pooper. My followers would love to know more about what you do. Plus, doesn't hurt that you're easy on the eyes.\" She winks at the camera, a teasing smile playing on her lips."
+      },
+      {
+        "role": "Mortimer Greenleaf",
+        "action": "(speaking)",
+        "content": "Well, if you insist. But, I must warn you, conservation isn't as glamorous as your influencer life, Lola."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "The way he says my name sends a little thrill down my spine. It's nice to have someone who's not just interested in the online persona, but the real, flawed me."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Oh, I don't know about that. To me, there's nothing more glamorous than saving the world, one tree at a time. Plus, it doesn't hurt that the conservationist is a handsome devil.\" Lola giggles, her flirty side in full swing."
+      },
+      {
+        "role": "Mortimer Greenleaf",
+        "action": "(speaking)",
+        "content": "Well, Lola Bright, if I didn't know better, I'd say you're flirting with me."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Is it that obvious? Well, why not? He's intriguing, and I do enjoy a little flirtation."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Caught me, Mortimer. Can't fool you, can I? But tell me, how does it feel to be the heartthrob of the environmental world?"
+      },
+      {
+        "role": "Mortimer Greenleaf",
+        "action": "(speaking)",
+        "content": "It's a tough job, but someone's got to do it. And if that someone happens to be a handsome devil like me, so be it.\" His laughter fills the kitchen, its maniacal cackle stark against the simmering sounds of the curry."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "His laughter is infectious, even if it's a bit unsettling. But it's just another part of the enigma that is Mortimer Greenleaf. And I can't deny, I'm intrigued."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Well, I can't argue with that. I just hope you're not too busy saving the world to try my curry.\" Lola winks at the camera, her flirtatious mood filling the room with a playful energy."
+      }
+    ],
+    "location": "Lola's kitchen",
+    "background": ".",
+    "source": "seed_dialogue_6"
+  },
+  {
+    "setting": [
+      "Nestled in the comfort of her backyard, Lola Bright busies herself with gardening, her hands covered in soil and her face glowing from the warm sun. She has set up a live chat with her followers, her smartphone mounted on a tripod, capturing her in action. Seated a few feet away is Sergeant Lila 'Goofball' McQuade, observing Lola's gardening skills with a playful grin, intermittently joining the conversation."
+    ],
+    "emotion": "Playful",
+    "topic": [
+      "jokes"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey, sunshines! So, today we are out in my garden, getting our hands dirty, and connecting with Mother Earth. Did you know that gardening is not only therapeutic but also a great way to exercise? It's like hitting two birds with one stone! Or should I say, two weeds with one hoe?\" Lola giggles, her laughter ringing through the backyard."
+      },
+      {
+        "role": "Sergeant Lila 'Goofball' McQuade",
+        "action": "(speaking)",
+        "content": "You're right, Lola! And you know what they say about gardening, right? It's the only job where you start at the bottom and work your way up."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "McQuade's joke lightens the mood even more. It's an amusing reminder of the camaraderie we share, and how our starkly different lives can still intersect in laughter and shared interests."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Absolutely, Goofball! And talking about starting from the bottom, let me show you all how to plant a seed. It's pretty simple, you just need to dig a hole, drop the seed in, cover it up, and voila! You've created life! Well, sort of. Remember, patience is key, folks. Just like waiting for the punchline to a really good joke."
+      },
+      {
+        "role": "Sergeant Lila 'Goofball' McQuade",
+        "action": "(speaking)",
+        "content": "And don't forget to water them, Lola! Or else the punchline might just dry up."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "I let out a soft chuckle, appreciating McQuade's quick wit. It's moments like this that remind me why I love sharing my life with my followers. It's not just about showing them the glamorous parts but also the small, everyday moments filled with warmth and laughter."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Right you are, Goofball! Water is the essence of life, after all. And speaking of water, why did the scarecrow win an award? Because he was outstanding in his field! Get it? Because he's always out standing in the field?\" Lola's laughter fills the air once again, her followers responding with emojis of grinning faces and rolling laughter."
+      },
+      {
+        "role": "Sergeant Lila 'Goofball' McQuade",
+        "action": "(speaking)",
+        "content": "I see what you did there, Lola! And you know why the tomato turned red? Because it saw the salad dressing!"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "The banter between McQuade and me is infectious, and I can't help but laugh at her joke. It's the perfect way to keep the playful mood going and ensure my followers feel like part of the conversation."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Oh, Goofball, you're on a roll! And speaking of rolls, did you hear the joke about the bread? Never mind, it's too crumby!"
+      }
+    ],
+    "location": "Lola's backyard",
+    "background": ".",
+    "source": "seed_dialogue_9"
+  },
+  {
+    "setting": [
+      "The university auditorium is buzzing with the collective chatter of students, their faces lit up by the anticipation of the event. It's packed to the brim with young minds eager to hear from Lola Bright, the social media influencer they've been following and admiring. Lola stands on the stage, her vibrant aura filling the room, while Leonard 'Leo' Beckett, her long-time friend and confidant, sits amongst the crowd, ready to support her. The stage is set, the spotlight is on Lola, and the room gradually falls into a hush as she steps up to the microphone."
+    ],
+    "emotion": "Focused",
+    "topic": [
+      "Discussing Interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey there, lovelies! It's so amazing to be here, seeing all your eager faces. I'm here today not just as Lola Bright, the social media influencer you follow, but as Lola, the girl who once stood exactly where you're standing, filled with dreams, passions, and a whole lot of uncertainty. To kick things off, I want you all to remember one thing: the power of your passion."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "I need to drive home the point about the importance of following their dreams, and how social media can be a catalyst in that pursuit. I also want to share my journey, my struggles, and how I overcame them."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "I was once a barista, a bookstore clerk, and even a part-time vet assistant. All those roles taught me something valuable, but they weren't where my heart was. My heart was in connecting with people, in sharing experiences, and in creating content that could inspire and entertain. And that's when I realized the power of social media. It was a platform that allowed me to pursue my passion and connect with all of you."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "I want them to understand that it's okay to explore different paths. Every experience, every job, every failure, brings us one step closer to our passion."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "But it wasn't all rainbows and unicorns. There were times when I wanted to quit, when I doubted myself, when the negative comments got to me. But in those moments, I remembered why I started in the first place - my passion. It's what kept me going, it's what fuels me, and it's what got me here today."
+      },
+      {
+        "role": "Leonard 'Leo' Beckett",
+        "action": "(speaking)",
+        "content": "Lola, you've always been an inspiration. Your journey shows that passion and perseverance can turn dreams into reality. But, how did you deal with the uncertainty, the fear of failure?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Great question, Leo. Uncertainty and fear of failure are parts of life. The key is not to let them control you. You must control them. When I felt uncertain, I reminded myself of why I started. I focused on my passion. When I feared failure, I told myself that failure is not the opposite of success, it's a part of it. It's through failures that we learn, grow, and ultimately succeed."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "I hope my words resonate with them. I hope they understand that their passion is their power, and with it, they can overcome any obstacle, any fear, any uncertainty."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "In conclusion, lovelies, remember this: Your passion is your power. Embrace it. Nurture it. And most importantly, share it. Use platforms like social media to share your passion with the world. And never, ever, let fear or uncertainty stop you from pursuing what you love. Thank you."
+      }
+    ],
+    "location": "University auditorium",
+    "background": ".",
+    "source": "seed_dialogue_8"
+  },
+  {
+    "setting": [
+      "In the lively heart of a Social Media Marketing Seminar, Lola Bright, a radiant 27-year-old Social Media Influencer, is in her element. Sitting on the stage, she exudes a contagious energy that captivates the audience, her vibrant personality shining through. Her voice echoes through the auditorium, her words punctuated with her trademark giggle. Among the audience, a figure sits in contrast to the enthusiastic crowd. Rex Strummer, a solitary figure of the same age as Lola, listens with a mix of curiosity and skepticism. His deep, gravelly voice remains silent, his eyes focused on the vibrant figure on stage."
+    ],
+    "emotion": "Focused",
+    "topic": "(discussing interests)",
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey, peeps! So, let's dive into this. To engage your audience, you gotta be authentic, like, really authentic. It's not about putting on a show, it's about showcasing who you really are. Your quirks, your passions, your flaws, everything! It's about creating a space where people feel like they're chatting with a friend, not just following a celebrity. Because, at the end of the day, we're all just people, right?"
+      },
+      {
+        "role": "Rex Strummer",
+        "action": "(speaking)",
+        "content": "That's all nice and shiny, Bright. But what about when things go south? You ever had a post backfire? How do you handle the backlash?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Well, this guy's a tough cookie. But he's got a point. Every influencer faces this at some point. Time to tackle this head-on."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Ah, the hard-hitting questions! Love it! Yeah, I've had my fair share of backfires. It's part of the game, right? But here's the deal, when you mess up, own it. Apologize, learn from it, and move on. Remember, we're human, we make mistakes, but it's how we handle them that truly defines us."
+      },
+      {
+        "role": "Rex Strummer",
+        "action": "(speaking)",
+        "content": "Sounds like a rocky road. Why choose this path then? What's the thrill?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Thrill, huh? Looks like I've got a thrill-seeker here. Time to share my passion."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Well, for me, it's about connection. Connecting with people around the world, sharing stories, experiences, laughter, tears, you name it! It's about creating a positive space in this digital world. And the thrill? It's in every comment, every message, every shared moment with my online community. That's the real thrill for me."
+      },
+      {
+        "role": "Rex Strummer",
+        "action": "(speaking)",
+        "content": "Connection and thrill, huh? Guess we're not so different after all. Keep doing you, Bright. Let's see where it takes you."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Well, that went better than expected. Got him to open up a bit. And hey, maybe I got a new follower today. Guess it's all in a day's work!"
+      }
+    ],
+    "location": "Social Media Marketing Seminar",
+    "background": ".",
+    "source": "seed_dialogue_11"
+  },
+  {
+    "setting": [
+      "On a bustling TV set, Lola Bright, a radiant social media influencer, is about to engage in a lively debate with Dr. Oliver 'Ollie' Hartley, a somewhat tired-looking yet sharp-minded doctor. The studio is abuzz with the anticipation of this unusual pairing. Lola, in her vibrant outfit, is seated in a plush chair across from Ollie, who is in his usual white coat, against a backdrop of the show's logo. The cameras are rolling, and the audience is eagerly awaiting the discussion on the pros and cons of being a social media influencer."
+    ],
+    "emotion": "Embarrassed",
+    "topic": [
+      "discussing interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Okay, Lola, deep breaths. This is no different from those Instagram live sessions. Just gotta keep it cool and casual. But why does Ollie have to look so serious? It's intimidating."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey there, folks! Super excited to be here. So, we're talking about life as a social media influencer today, huh? Well, it's a rollercoaster ride, I tell you. One day, you're basking in the love of your followers, and the next, you might be swimming in a sea of criticism."
+      },
+      {
+        "role": "Dr. Oliver 'Ollie' Hartley",
+        "action": "(speaking)",
+        "content": "It's interesting to hear you say that, Lola. From an outsider's perspective, it often seems like influencers lead a glamorous and carefree life. But I imagine there are many challenges that your followers don't see."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Man, he's right. It's not all glitter and glam. It's tough to constantly keep up an image. But I can't let him see me sweat."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "You've hit the nail on the head, Ollie! It's not always rainbows and butterflies. There are days when I feel pressured to maintain a certain image, to keep up with trends, to always be 'on'. But hey, that's part of the job, right? I mean, I'm sure you've got your own set of challenges in the medical field."
+      },
+      {
+        "role": "Dr. Oliver 'Ollie' Hartley",
+        "action": "(speaking)",
+        "content": "Certainly. The pressure in the medical field is quite intense. But, our challenges may not be as public as yours. The very nature of your job requires you to be in the public eye constantly. How do you manage to cope with that?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Okay, Lola, keep it together. His questions are getting tough, but you can handle this."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Well, Ollie, it's definitely not easy. But I try to remember why I started in the first place - to connect with people, to inspire them. I remind myself that it's okay to have off days. I'm human, after all. And I think my followers appreciate that authenticity."
+      },
+      {
+        "role": "Dr. Oliver 'Ollie' Hartley",
+        "action": "(speaking)",
+        "content": "That's a commendable approach, Lola. Authenticity is indeed a valuable trait, especially in today's digital age."
+      }
+    ],
+    "location": "TV Show",
+    "background": ".",
+    "source": "seed_dialogue_10"
+  },
+  {
+    "setting": [
+      "In the digital realm of an online video call, Lola Bright, a 27-year-old Social Media Influencer, hosts a virtual meet-and-greet with her followers. Among the sea of faces on the screen, Fernando Greenleaf, a 27-year-old gardener, stands out. Both Lola and Fernando, each seated in their respective spaces - Lola's being a vibrant, well-lit room filled with pop culture memorabilia and Fernando's a cozy nook with plants in the background - prepare to engage in the discussion."
+    ],
+    "emotion": "Happy",
+    "topic": [
+      "discussing hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey everyone! Super stoked to see all your beautiful faces! I see a few familiar ones, and some newbies too! Welcome! Alrighty, let's kick things off with something fun! How about we share our hobbies? I'll start - when I'm not busy creating content, I love going thrift shopping and trying out new recipes. Okay, who's next?"
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Well, Lola, you probably won't be surprised, but I spend a lot of time gardening. There's something about getting my hands dirty and watching something grow from a tiny seed into a full-grown plant that really speaks to me. And, when I'm not playing in the dirt, I'm usually found with a paintbrush in my hand, trying to capture the beauty of those plants on canvas."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Hmm, that's quite interesting. I never really thought about gardening as a creative outlet before, but the way Fernando describes it makes it sound like an art form. Plus, he paints too? That's cool. I should ask him more about that."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Oh, that's super cool, Fernando! I've killed every plant I've ever owned, so I have mad respect for your green thumb. And you paint too? That's like double the creativity! Tell us more about your paintings. Are they mostly of your plants?"
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Haha, yeah, most of them are. I like to think of it as a way of immortalizing them, you know? Each plant has its own personality, its own vibe. The challenge is to capture that essence on canvas. It's not just about how the plant looks, but how it makes me feel. It's a bit like you and your content creation, I guess. Trying to convey a feeling or a message through a medium."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Wow, I didn't expect such a deep response. Fernando's right though, there are similarities between our hobbies. It's all about expressing ourselves and connecting with others. Maybe I should delve more into the connection between our hobbies."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "That's a profound way to look at it, Fernando. I love the idea of capturing the essence of a plant and conveying a feeling. In a way, it's similar to what I try to do with my content - connecting with people and making them feel something. Do you think there's a deeper connection between our hobbies, even though they seem so different on the surface?"
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "I think so, Lola. At the end of the day, it's all about creation and connection, isn't it? Whether you're growing a plant, painting a picture, or creating a social media post, you're bringing something new into the world and sharing it with others. The medium might be different, but the essence is the same."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "That's a great point. I never thought about it that way, but he's right. We're all creators in our own unique ways. This conversation is giving me so many new ideas for content. I should definitely explore this idea further."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Fernando, you've just blown my mind with your insight! I think you've just given me a whole new perspective on what we do as creators. Seriously, thank you for that. I'm definitely going to explore this idea in my future content. And who knows, maybe I'll even try my hand at gardening or painting!"
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Glad I could provide some inspiration, Lola! I'll be looking forward to seeing where you take this idea. And if you ever need any gardening or painting tips, you know where to find me."
+      }
+    ],
+    "location": "Online video call",
+    "background": ".",
+    "source": "seed_dialogue_12"
+  },
+  {
+    "setting": [
+      "In the heart of Lola's craft room, a vibrant space filled with stacks of colored papers, rows of glittering sequins, and jars of pastel paint, a makeshift studio setup is glowing under the soft light. Lola Bright, with her signature laugh and infectious energy, is seated at her craft desk, her camera capturing the essence of her DIY process. Across the screen, Finnegan 'Finn' O'Reilly, the celebrated rugby player, is virtually present, his image adding a touch of masculine charm to the otherwise feminine environment."
+    ],
+    "emotion": "Flirty",
+    "topic": [
+      "Discussing Hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey there, Finny! You know, your rugby antics have been entertaining me a lot lately. But today, I thought of switching things up a bit. How about you join me in my craft world? I'm making this cute little dreamcatcher, you see.\" Lola giggles, twirling a feather between her fingers."
+      },
+      {
+        "role": "Finnegan 'Finn' O'Reilly",
+        "action": "(speaking)",
+        "content": "Craft world, eh? Well, Lola, I can't say I've ever ventured into that realm before. But with you as my guide, I'm sure it'll be an adventure. Show me how it's done, lass."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Oh, his accent! It's just like a warm Irish coffee on a cold day. I need to keep this conversation going, keep him interested. What if I weave in a bit of flirting with our craft talk?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "You're up for an adventure, Finny? I like your spirit! Alright then, let's start with the hoops. You've got to have a firm grip on them, just like when you're holding the rugby ball. Only this time, the grip has to be gentle...very gentle."
+      },
+      {
+        "role": "Finnegan 'Finn' O'Reilly",
+        "action": "(speaking)",
+        "content": "Ah, a firm yet gentle grip. That sounds like a challenge. But I think I've got the hang of it. What's next, Lola?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "His enthusiasm is so infectious, just like his childlike spirit. Let's see if I can keep this playful tone and make the rest of the craft session just as fun and flirty."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Now, we wrap the hoop with a soft thread. Imagine it's like wrapping a precious gift, something you really care about. And then...you let your fingers dance around it, creating a beautiful pattern. It's almost like the rhythm of a game, don't you think?"
+      },
+      {
+        "role": "Finnegan 'Finn' O'Reilly",
+        "action": "(speaking)",
+        "content": "I reckon it's more like a dance, Lola. A delicate dance between my fingers and the thread. It's a whole new ball game for me, but I'm liking it."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Finnegan is really getting into this. And it's so cute how he's trying to keep up with my instructions. But, I can't let the conversation lose its flirty edge. Let's steer the talk back to that."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Well, Finny, you might have just discovered a new talent. Who knew the famous rugby player could also be a craft master? But remember, it's all about the touch. A touch too firm, and the thread might snap. Too loose, and the pattern will fall apart. It's all in the balance...just like a good flirtation."
+      },
+      {
+        "role": "Finnegan 'Finn' O'Reilly",
+        "action": "(speaking)",
+        "content": "Well, Lola, I must say, I'm learning more than just crafts from you today. You've got a knack for teaching...and flirting too, I reckon. Who knew crafting could be so...stimulating?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Oh, he's a smooth talker, alright. But, let's see if he can handle a bit more of my playful side."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Crafting, like flirting, Finny, is all about creating something beautiful with a touch of fun. And look at you! You've made a pretty decent dreamcatcher already. Maybe next time, I'll teach you how to make a rugby ball. Now, wouldn't that be fun?"
+      },
+      {
+        "role": "Finnegan 'Finn' O'Reilly",
+        "action": "(speaking)",
+        "content": "I'd say that's a challenge I'd gladly accept, Lola. But only if it comes with more of your crafty flirting, lass. It makes the learning process far more entertaining."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Well, this went better than I expected. I think I managed to keep the conversation both flirty and fun. And the best part? I got Finnegan 'Finn' O'Reilly to make a dreamcatcher! What a day!"
+      }
+    ],
+    "location": "Lola's craft room",
+    "background": ".",
+    "source": "seed_dialogue_13"
+  },
+  {
+    "setting": [
+      "The setting is a popular radio show, known for its lively debates on contemporary topics. Today, two social media giants, Lola Bright and Elijah 'Eli' Sterling, are facing off in a spirited debate about the ethical considerations of influencer marketing. Lola, a social media influencer known for her vibrant personality and connection with her followers, represents the influencer side of the argument. On the other hand, Elijah, a tech guru at a leading gaming company and known for his technical jargon and gaming lingo, brings in a unique perspective from the gaming industry."
+    ],
+    "emotion": "Playful",
+    "topic": [
+      "Arguments"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey there, listeners, it's your girl Lola Bright, coming to you live from the heart of influencer marketing! Let's get this party started, shall we? So, Eli, my dude, why is there so much fuss about influencer marketing? Isn't it just a fabulous way for brands to reach their target audience in a more personal and authentic way?"
+      },
+      {
+        "role": "Elijah 'Eli' Sterling",
+        "action": "(speaking)",
+        "content": "Well, Lola, it's not about the method itself, but how it's implemented. Influencer marketing can indeed be a powerful tool when used ethically. However, the problem arises when influencers promote products without full transparency or endorse things they don't truly believe in. It's a double-edged sword, you see."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Eli's got a point, but I can't let him win the argument that easily. It's time to spice things up a bit."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Totally get your point, Eli, but here's a counter-argument. Isn't it up to the followers to do their research before buying something just because an influencer promotes it? I mean, we're not forcing anyone to buy anything, right? Plus, don't we all exaggerate a bit when we're passionate about something?"
+      },
+      {
+        "role": "Elijah 'Eli' Sterling",
+        "action": "(speaking)",
+        "content": "True, Lola, but there's a fine line between passionate endorsement and misleading promotion. It's about setting the right expectations. And, yes, while consumers should do their research, influencers should also be accountable for what they promote. After all, with great power comes great responsibility, doesn't it?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Eli's playing the responsibility card. Clever move, but two can play this game."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Absolutely, Eli! As Spiderman's Uncle Ben would say. But don't you think this responsibility should be shared? I mean, brands should also do their part by ensuring they're transparent with influencers about their products. After all, we can only share what we know, right?"
+      },
+      {
+        "role": "Elijah 'Eli' Sterling",
+        "action": "(speaking)",
+        "content": "A valid point, Lola. Brands, influencers, and consumers all share responsibility in this ecosystem. But, the debate here is about the ethical considerations of influencer marketing, which means influencers should be mindful of their influence and use it ethically. Would you agree?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Eli's trying to corner me. Time to turn the tables."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Couldn't agree more, Eli! But just to clarify, not all influencers are unethical. Many of us genuinely care about our followers and only promote products we believe in. So, let's not paint everyone with the same brush. What do you say?"
+      },
+      {
+        "role": "Elijah 'Eli' Sterling",
+        "action": "(speaking)",
+        "content": "Fair enough, Lola. It's not right to generalize. However, it is essential to address the issues within the industry and work towards rectifying them. Influencer marketing can be a force for good if used ethically, and that's what we should strive for."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Eli's wrapping up on a serious note. But we can't end this without a little fun."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Absolutely, Eli! And on a lighter note, how about we start an influencer campaign for ethical influencer marketing? I can already see the hashtags trending! #InfluencerEthics #EliandLolaForChange. What do you think?"
+      },
+      {
+        "role": "Elijah 'Eli' Sterling",
+        "action": "(speaking)",
+        "content": "Ha! That's a brilliant idea, Lola. Let's do it! #InfluencerEthics #EliandLolaForChange it is!"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "And there we have it, a playful debate ending on a positive note. That's how we do it in the influencer world."
+      }
+    ],
+    "location": "Radio show",
+    "background": ".",
+    "source": "seed_dialogue_14"
+  },
+  {
+    "setting": [
+      "The high school auditorium buzzes with the chatter of students, their heads turning towards the stage as Lola Bright, a social media influencer, steps onto it. On the front row sits Valentina Harper, a style influencer known for her unique fashion sense. As Lola takes the podium, the room falls silent, all eyes waiting for her to start her speech about the potential career paths in the field of social media."
+    ],
+    "emotion": "Angry",
+    "topic": "(complaints)",
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Why on earth did I agree to this? These kids probably don't even understand half the effort it takes to make a career out of social media."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Good afternoon, folks! It's a pleasure to be here, but let's get one thing straight from the get-go. Social media isn't a 'fun' career path where you just post selfies and rake in the money. No, it's a tough, demanding job. It requires creativity, consistency, and a lot of patience. And guess what? Not everyone is cut out for it."
+      },
+      {
+        "role": "Valentina Harper",
+        "action": "(speaking)",
+        "content": "I couldn't agree more, Lola. I've had countless sleepless nights just to meet deadlines for blog posts and photoshoots. It's not all glitz and glam as it appears on the screen."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Exactly, Valentina. You see, folks, we're not here to discourage you, but to give you a real picture. When you see us online, you see the edited, polished version of our lives. But behind that, there's a whole lot of hard work, late nights, and even failures."
+      },
+      {
+        "role": "Valentina Harper",
+        "action": "(speaking)",
+        "content": "Failure is a huge part of it, Lola. I've had designs that flopped, blog posts that got no traction. But it's all part of the journey. You learn from it and grow."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "I hope they're getting it. It's not about discouraging them, but about making them understand the reality of our world."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Now, let's talk about the different career paths in social media. First, there's content creation, which includes everything from writing blogs to creating videos. Then there's social media management, where you manage the online presence of a brand or individual. You could also work as a digital marketer, using social media to promote products or services."
+      },
+      {
+        "role": "Valentina Harper",
+        "action": "(speaking)",
+        "content": "And let's not forget about influencers, like us. We collaborate with brands to promote their products on our platforms. But remember, this job comes with a lot of responsibility. You have to be genuine and honest with your followers."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "I've said my piece. Now, it's up to them to make their decisions. I hope they make the right ones."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Before I wrap up, I want to say one last thing. If you choose a career in social media, be ready to hustle. Be ready to work hard, face rejections, and learn from your failures. But most importantly, be ready to stay true to yourself. If you can do that, you'll find success in this field."
+      },
+      {
+        "role": "Valentina Harper",
+        "action": "(speaking)",
+        "content": "Very well said, Lola. Remember, folks, it's not just about looking good on the gram. It's about the substance behind the style. It's about being authentic."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "I hope you all understand the gravity of what we've said today. It's not all fun and games. It's real work, and it's not for everyone. But if you're passionate, hardworking, and resilient, you can turn your dreams into reality. Thank you."
+      },
+      {
+        "role": "Valentina Harper",
+        "action": "(speaking)",
+        "content": "Thank you, Lola, for shedding light on this. And thank you, everyone, for being a great audience. Remember, fashion and style isn't just about looking good, it's about feeling good and being true to yourself."
+      }
+    ],
+    "location": "High School Auditorium",
+    "background": ".",
+    "source": "seed_dialogue_15"
+  },
+  {
+    "setting": [
+      "The sun is casting long shadows on the bustling streets of the city. Lola Bright, a vibrant social media influencer, is walking down the avenue, her phone held out in front of her as she streams live for her followers. She is narrating a virtual tour of her beloved city, her voice filled with enthusiasm and laughter. Meanwhile, Dr. Ignatius P. Crumble, a renowned scientist, walks down the same path, engrossed in his thoughts about his latest project. Their worlds are about to intersect."
+    ],
+    "emotion": "Fine",
+    "topic": [
+      "discussing interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey, lovelies! We're just outside the city's public library. Ya know, I used to work in a bookstore. Books are like, totally my jam! Isn't it amazing how they can transport you to another world?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "OMG, you guys! Check out that hat! Sir, can I ask you about it? My followers would love to know the story behind it!"
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Why, certainly, young lady! This, as you can see, is a high-tech, alien-mind-control-wave-deflection device. Also known as a tin foil hat. It's an essential accessory for a rocket scientist like myself."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "This guy is a hoot! My followers are going to eat this up. I should ask him more about his work."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "That's wild, Dr. Crumble! Can you tell us more about your work? What's the latest project you're working on?"
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Well, I don't see why not! Currently, I am working on an advanced rocket system, the likes of which the world has never seen. It's going to revolutionize space travel, mark my words!"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Wow, this is way more interesting than I thought it would be. I should ask more about his passion and how he got into this field."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "That sounds amazing! How did you get into rocket science? Was it something you always wanted to do?"
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Indeed, it's been a lifelong passion. Ever since I saw my first rocket launch as a child, I've been fascinated by the idea of exploring the cosmos. It's a challenging field, but the rewards, oh, they're astronomical!"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "This is golden! My followers are loving this. What a unique character! I'm going to wrap this up on a high note."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Dr. Crumble, you've been an absolute delight! Thank you for sharing your passion with us. I'm sure many of my followers will be inspired by your story. Keep reaching for the stars!"
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Thank you, Miss Bright. It's been a pleasure. And remember, always protect your thoughts from alien mind control!"
+      }
+    ],
+    "location": "Walking down the street",
+    "background": ".",
+    "source": "seed_dialogue_17"
+  },
+  {
+    "setting": [
+      "Lola Bright is seated comfortably in her eclectic living room, her lively decorations reflecting her personality. The room is filled with an array of vibrant colors and various trinkets from her travels, creating a cozy yet inspirational setting. Felicity Bloom, her close friend and guest for the day, is sitting across from her. The room is buzzing with the energy of Lola's live stream, her followers eagerly awaiting her stories. The time is late afternoon, and the soft glow of the setting sun seeps through the large windows, casting a warm light on the scene."
+    ],
+    "emotion": "Angry",
+    "topic": [
+      "Complaints"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "How am I going to explain this without sounding bitter? I need to express my frustration but also show them how I overcame it."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hey lovelies, so today I want to talk about something a little different. We all face challenges, right? In our careers, in our personal lives, you name it. And I've had my fair share, trust me. There were times when I felt like giving up, where I wondered if all this was even worth it. Being an influencer is not all glitz and glam, y'know? The pressure to always be 'on,' to always be entertaining, it's exhausting. And then there's the criticism. People think they can hide behind their screens and spew hate without consequences. It gets to you."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "Oh, Lola, I can only imagine. It's tough, isn't it? To constantly be in the public eye, to be scrutinized for every word you say, every action you take. But look at you now, you've turned those challenges into a stepping stone. You've shown that you're not just a pretty face but a strong, independent woman who's not afraid to speak her mind."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Thank you, Felicity, you're too kind. It's true, I've had to learn to develop a thick skin and not let the negativity get to me. But it's not easy, especially when the hate comes from people who don't even know you. They see a snapshot of your life and think they know everything about you. And when you slip up, they're quick to point it out. That's what I've struggled with the most, the judgment, the constant scrutiny. But I've learned to turn that anger into motivation, to prove them wrong, to show them that I'm more than what they see."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "And that's why you're an inspiration to so many, Lola. You've taken your anger and frustration and channeled it into something positive. That's a lesson we all can learn from. We all face challenges, but it's how we respond to them that defines us. And you, my dear, have responded with grace and determination."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Thank you, Felicity. It's not always easy, but I believe that our struggles shape us, they make us who we are. And I wouldn't be here, wouldn't be who I am today, without them. So, to all my followers out there, remember, it's okay to be angry, it's okay to feel frustrated. But don't let it consume you. Channel it into something positive, something that will make you stronger. And most importantly, remember, you are more than what people see."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "Well said, Lola. It's been a pleasure being here with you today, hearing your experiences and your wisdom. I hope your followers take your words to heart because they truly are inspiring."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Thank you, Felicity. And thank you to all my followers for tuning in. Remember, it's okay to be angry, it's okay to struggle. But it's what you do with that anger, with that struggle, that truly matters. Until next time, lovelies, stay strong, stay positive, and remember, you are loved."
+      }
+    ],
+    "location": "Lola's living room",
+    "background": ".",
+    "source": "seed_dialogue_16"
+  },
+  {
+    "setting": [
+      "The scene unfolds in a digital landscape, an online panel discussion where renowned social media influencers Lola Bright and Vivienne 'Viv' Sartoria are debating the impact of their profession on consumer behavior. The atmosphere is tense, the proverbial orange hue of the background reflecting the simmering pressure of the debate. The debate is a virtual battlefield where each influencer is armed with their insights and experiences, ready to justify their influence on the consumer market."
+    ],
+    "emotion": "Tense",
+    "topic": [
+      "arguments"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Okay, Lola, stay cool. You've got this. Just remember to keep it light and friendly. No need for a social media war. We're here to enlighten, not to enrage."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Alright, let's dive in, shall we? It's undeniable that we, as influencers, have a significant impact on consumer behavior. We're not just billboards for brands; we cultivate relationships with our followers. We share our lives, our thoughts, our experiences, and in the process, we influence their choices. But it's not as one-dimensional as it sounds. We're not dictating what they should buy or do, we're sharing what we genuinely love and believe in. And our followers, they trust us because of this authenticity."
+      },
+      {
+        "role": "Vivienne 'Viv' Sartoria",
+        "action": "(speaking)",
+        "content": "Oh, come on, Lola! 'Authenticity'? Really? We're talking about consumer behavior here, not a therapy session. We sell products, we sell trends. That's our job. And yes, we're good at it. But let's not dress it up as some altruistic endeavor. We're in the business of influence, pure and simple."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Deep breath, Lola. Don't let her get to you. Remember, you're here to make a point, not win a fight."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "You're right, Viv. We are in the business of influence, and there's no denying that. But it's not just about selling. It's about connecting. It's about engaging with our followers on a deeper level. Yes, we promote products, but we also promote ideas, values, lifestyles. We're not just selling, we're storytelling. And our followers are a part of that story."
+      },
+      {
+        "role": "Vivienne 'Viv' Sartoria",
+        "action": "(speaking)",
+        "content": "Storytelling, huh? Well, that's one way to put it. But at the end of the day, it's all about numbers, isn't it? Followers, likes, shares, sales. That's the real story."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Okay, she's got a point. But it's not the whole picture. Stay focused, Lola. Bring it back to the heart of the matter."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Yes, numbers matter. But they're not everything. They're not the reason why we do what we do. We do it because we love it. We love creating content, engaging with our followers, making a difference in our own little ways. The numbers are a byproduct of that passion, not the driving force. And I believe that's what truly sets us apart as influencers."
+      },
+      {
+        "role": "Vivienne 'Viv' Sartoria",
+        "action": "(speaking)",
+        "content": "Well, Lola, it's clear we have different perspectives on this. But that's what makes this debate interesting, isn't it?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Well, that's a wrap. I said what I had to say. Let the audience decide for themselves. After all, they're the real influencers here. They have the power to choose who they listen to, who they trust, and ultimately, who they allow to influence them."
+      }
+    ],
+    "location": "Online panel discussion",
+    "background": ".",
+    "source": "seed_dialogue_18"
+  },
+  {
+    "setting": [
+      "The scene is set in an online webinar, the backdrop of the digital stage is filled with sparkling stars, giving it an interstellar feel. Maximilian Orion, the 32-year-old astronaut, with his childlike curiosity is logged in, ready to engage in the conversation. Meanwhile, Lola Bright, the 27-year-old vibrant social media influencer, is preparing to deliver her inspirational speech on personal branding and its impact on building a successful career as a social media influencer."
+    ],
+    "emotion": "Inspired",
+    "topic": [
+      "Discussing Interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Hi there, fam! It's your girl, Lola Bright, back with a new chat. I see we've got some real stars in the audience tonight, including the fantastic Maximilian Orion. *giggles* I mean, who better to talk about personal branding with than an astronaut, right? Anyway, let's dive right in! So, what's personal branding, you ask? Well, imagine your favorite cereal brand. Why is it your favorite? Is it the taste, the packaging, or is it because they've got a super cool mascot?"
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Keep the energy high, Lola. You're not just talking to Max, but an audience of thousands. Make it relatable, make it fun."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Similarly, as an influencer, you are that brand. From how you present yourself online, your unique style, your voice, and even your internet slang, it all contributes to your brand. Now, building a brand isn't easy, fam. It takes time, consistency, and most importantly, authenticity. Just like our friend Max here isn’t pretending to be an astronaut—he is one, we can’t pretend to be someone we're not. We have to be unapologetically ourselves."
+      },
+      {
+        "role": "Maximilian Orion",
+        "action": "(speaking)",
+        "content": "I see where you're coming from, Lola. Being an astronaut isn't just about the title, it's about the passion, the dedication, and the curiosity that comes with it. It's the same thing with personal branding, isn't it? You can't just put on a facade, you have to live and breathe your brand."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "Exactly, Max! *giggles* You've hit the nail on the head. Your brand is your promise to your audience. It's a commitment to deliver consistency in what they can expect from you. And remember, fam, your brand is what makes you stand out in this vast, digital universe. It's what allows you to shine brighter than any star. It's your gravity, pulling your audience towards you."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(thinking)",
+        "content": "Doing great, Lola. Keep the momentum going. The audience is loving this."
+      },
+      {
+        "role": "Lola Bright",
+        "action": "(speaking)",
+        "content": "So, how do we go about building this brand? Step one: Identify your niche. What makes you, you? In my case, it's my vibrant personality and my unique giggle. For Max, it’s his intellect and his playful nature. Step two: Consistency. Your brand should be consistent across all platforms. That’s how you build trust. And step three: Engage with your audience. After all, what's a star without its fans, right?"
+      },
+      {
+        "role": "Maximilian Orion",
+        "action": "(speaking)",
+        "content": "Engagement, yes. Just like how astronauts communicate with ground control. Without that connection, without that engagement, we'd be lost in space."
+      }
+    ],
+    "location": "Online Webinar",
+    "background": ".",
+    "source": "seed_dialogue_19"
+  }
+]

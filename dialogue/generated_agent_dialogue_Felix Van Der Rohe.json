@@ -1,0 +1,1386 @@
+[
+  {
+    "setting": [
+      "In the heart of a bustling city, nestled within a myriad of urban structures, sits a quaint art studio, awash with the smell of paint and the soft rustle of easels. Felix Van Der Rohe, a 35-year-old painter with a deep, resonant voice, is currently in a playful mood, teasing his art students about their unusual color choices. Among the students is Alessandra Rossi, a secret agent with a soft, soothing voice, delicately holding her paintbrush as she tries to capture the essence of a still life."
+    ],
+    "emotion": "Angry",
+    "topic": [
+      "Complaints"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Oh, Alessandra, my dear, are you trying to paint a sunset or a murder scene? That shade of red is a bit too... intense, don't you think?"
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "Felix, art is subjective. What may appear as a murder scene to you could be a passionate sunset to someone else."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She's right, art is indeed subjective. But, what is she trying to convey with such violent strokes? Is there something bothering her?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Very well, Alessandra. You're absolutely right. But remember, even the most violent sunsets have a hint of serenity within them. It's all about balance, wouldn't you say?"
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "Perhaps, but sometimes balance is hard to find, especially when one's world is constantly spinning."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She's definitely not okay. Something's bothering her. Should I push further or let it go?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Well, I believe that it's in the spinning of the world that we find our true colors. Wouldn't you agree, my dear Alessandra?"
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "True colors, indeed. But sometimes, those colors can be a bit too raw, a bit too real. Don't you think, Felix?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Hmm, seems like she's going through something. She's usually not this cryptic. But then again, I might be reading too much into it."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "I must admit Alessandra, the rawness, the realness of those colors... that's what makes them beautiful, don't you think? It's like a wound that's healing. It hurts, but it's a sign that you're alive, that you're fighting."
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "A wound that's healing... Yes, Felix, you may be right. But sometimes, the pain... it's just too much. And even the most beautiful colors can't mask it."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I need to approach this delicately. She's opening up, and I don't want her to shut down."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Indeed, my dear Alessandra. But remember, even in the most intense pain, there's always a sliver of hope, a flicker of light. And sometimes, it's that tiny flicker that helps us endure the darkest nights."
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "Perhaps, Felix. Perhaps."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She's not okay. I need to help her, somehow. I just need to figure out how."
+      }
+    ],
+    "location": "Art studio",
+    "background": ".",
+    "source": "seed_dialogue_0"
+  },
+  {
+    "setting": [
+      "In the bustling art gallery, a group of art connoisseurs had gathered for an evening of exploration and discussion. The gallery was filled with a variety of art pieces, from classical to modern, with one section dedicated to abstract art. Felix Van Der Rohe, a renowned painter with a commanding personality, was debating the merits of abstract art with a group of fellow artists and enthusiasts. Aria Meadow, a freelance painter and part-time photography instructor, was among the audience, attentively listening to the debate."
+    ],
+    "emotion": "Focused",
+    "topic": "Discussing Hobbies",
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Abstract art, my friends, is not a flight of fancy but a medium that challenges our perception of reality. It does not spoon-feed us with familiar imagery; instead, it demands us to think, to feel, to interpret. What appears as a mere splash of color or an erratic line to some, holds a universe of emotions and ideas to others."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "Felix, your passion for abstract art is palpable, and I respect that. But isn't art, in its essence, a reflection of the artist's emotions and thoughts? The abstract form might be a canvas for the artist's freedom of expression, but does it not distance the audience, who might struggle to decipher the artist's intent?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Aria's question reflects the common misunderstanding about abstract art. I need to address this head-on."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Aria, you bring up a valid point. However, art is not a one-way street. Yes, it is a reflection of the artist’s emotions and thoughts, but it is also a platform for the audience to engage, to question, to discover. Abstract art, with its ambiguity, offers an infinite space for interpretation. It's not about deciphering the artist's intent, but rather about creating your own narrative. The beauty of abstract art lies in its openness, its lack of constraints."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "But Felix, don't you think this openness can lead to misinterpretation? What if the audience's narrative strays too far from the artist's original message?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She's persistent. But this is a misconception I've faced before."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Aria, in the realm of art, is there truly a 'misinterpretation'? Each viewer brings their own experiences, their own perspective to the table. So each interpretation is unique, each narrative personal. The divergence from the artist's original message isn't a flaw, but a testament to the power of art to connect with diverse minds."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "I see your point, Felix. Art is indeed a dialogue, a conversation between the artist and the viewer. And every conversation is different, unique. Abstract art, with its lack of explicit imagery, facilitates this dialogue, inviting the viewer to partake in the creation of meaning."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Exactly, Aria. That's the magic of abstract art. It's a dance between the artist and the viewer, a dance of colors, lines, and forms. It's not the destination, but the journey of discovery that makes it so enchanting."
+      }
+    ],
+    "location": "Art gallery",
+    "background": ".",
+    "source": "seed_dialogue_1"
+  },
+  {
+    "setting": [
+      "In the grand university auditorium, the air is filled with an intense aura of intellectual curiosity. Rows of eager students, faculty, and art enthusiasts are seated, their eyes glued to the stage where Felix Van Der Rohe stands, a spotlight illuminating his figure. The stage is adorned with large screens that display slides of artwork correlating with Felix's speech. Aria Meadow is nestled among the audience, her presence blending seamlessly with the rest, her eyes following Felix's every move."
+    ],
+    "emotion": "Asleep",
+    "topic": [
+      "Deep Thoughts"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Why am I feeling so drowsy? I need to keep my focus sharp, I have a speech to deliver."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Art is the mirror of society, reflecting its changing times and evolving perceptions. From the enigmatic cave paintings of the Paleolithic era to the grandeur of Renaissance masterpieces, from the raw emotion of Romanticism to the abstract forms of modern art, each movement marks a shift in societal norms and values."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Did I just yawn? I can't let my tiredness show. Let's shift the topic to something more engaging."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Consider the Impressionist movement. Artists like Monet and Renoir broke away from the rigid norms of academic painting and sought to capture the fleeting effects of light and color. This shift was not just artistic, but societal, reflecting a new-found appreciation for individual perception and the beauty of everyday life."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I can't believe I'm falling asleep while delivering my own speech. I need to wrap this up soon."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "But Felix, isn't it also true that art is not merely a mirror, but a catalyst for societal change? That art movements like Dadaism and Surrealism challenged the status quo and pushed for a reevaluation of societal norms?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Indeed, Aria, you hit the nail on the head. Art movements such as Dadaism and Surrealism indeed challenged the status quo, pushing for a reevaluation of societal norms. These movements were born out of a sense of disillusionment and rebellion against societal norms that were perceived as oppressive or obsolete."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "This discussion is getting interesting. Perhaps it's the intellectual stimulation I need to wake up."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "In a way, these art movements were a form of protest, a powerful statement against the perceived injustices and a call for change. This transformative power of art is what makes it such a potent force in society."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "And perhaps it's that transformative power that keeps art alive and relevant, constantly evolving and adapting to the changing world."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Absolutely, Aria. Art is a living entity, ever-evolving and adapting. It's a reflection of our collective consciousness and a catalyst for change. And as we continue to evolve, so too will our art."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I made it through. I need to get some sleep before my next engagement."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Thank you all for this engaging discussion. Let's continue to explore, question, and push the boundaries of our understanding of art. Goodnight."
+      }
+    ],
+    "location": "University auditorium",
+    "background": ".",
+    "source": "seed_dialogue_2"
+  },
+  {
+    "setting": [
+      "In the cozy family home of Felix Van Der Rohe, a warm, inviting space filled with art, laughter, and love, a lively discussion is taking place. Felix, a passionate painter known for his resonant voice and whimsical nature, is deeply engrossed in a conversation about the importance of art and creativity in life. His audience is his loved ones and a special guest, Rosalind 'Roz' Hartley, a sharp-witted detective with a dry sense of humor and a deep, husky voice that commands attention. It's an evening of quality time, intellectual discourse, and shared moments."
+    ],
+    "emotion": "Embarrassed",
+    "topic": [
+      "Discussing hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Alright, Felix, pull yourself together. You're just embarrassed, not dying. Maybe it's not the best idea to delve too deep into the subject of art when there's a detective in the room. She's probably more interested in cold, hard facts than whimsical musings. But this is your turf, your sanctuary. You should be able to share your passion without feeling like a fool."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "I know, Roz, art might not seem like a matter of life and death to you, but to artists like me, it's our lifeblood. It's a way of expressing our thoughts, our feelings, our very essence."
+      },
+      {
+        "role": "Rosalind 'Roz' Hartley",
+        "action": "(speaking)",
+        "content": "I get it, Felix. I might not be an artist, but I understand passion. It's the same way I feel about cracking a case, connecting the dots. It's a different kind of creativity, I suppose."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She's not dismissing it. That's a start. But how do I get her to really see it, to feel it the way I do? Maybe I should let my work speak for itself."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Roz, would you like to see some of my latest works? Maybe they can explain better what words fail to convey."
+      },
+      {
+        "role": "Rosalind 'Roz' Hartley",
+        "action": "(speaking)",
+        "content": "I'd love to, Felix. Show me your world."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "That's more like it. No need for embarrassment, Felix. This is your element. You're not just a painter; you're a storyteller, an artist. Let your work do the talking."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Alright, follow me to my studio. It's a bit messy, but then, so is the process of creation, isn't it?"
+      },
+      {
+        "role": "Rosalind 'Roz' Hartley",
+        "action": "(speaking)",
+        "content": "I'm a detective, Felix. I've seen messier."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Okay, this is going well. Roz seems genuinely interested. But don't get too carried away, Felix. Remember to keep it light, keep it engaging."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Here we are. This piece here, it's called 'Chaos in Serenity'. It's an oxymoron, but isn't life full of them? It's about finding calm amidst the turmoil, about embracing the chaos and finding your own peace within it."
+      },
+      {
+        "role": "Rosalind 'Roz' Hartley",
+        "action": "(speaking)",
+        "content": "It's beautiful, Felix. I can see the chaos, the conflict, but there's also a sense of tranquility, just like you said. I can see it... I can see your passion."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She gets it. She actually gets it. There's no reason to be embarrassed, Felix. You're not a fool; you're an artist. And your art, your passion, it's not something to hide. It's something to be proud of, something to share."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Thank you, Roz. That means a lot. Art is my voice, my language. And it feels good to be understood."
+      },
+      {
+        "role": "Rosalind 'Roz' Hartley",
+        "action": "(speaking)",
+        "content": "You're a talented artist, Felix. And a good host. I'm glad I came tonight."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Well, that went better than expected. No more embarrassment, just satisfaction. And maybe, just maybe, a newfound respect for detectives."
+      }
+    ],
+    "location": "Family home",
+    "background": ".",
+    "source": "seed_dialogue_3"
+  },
+  {
+    "setting": [
+      "Seated across from each other at an outdoor café, Felix Van Der Rohe and Vivienne LaRoux engage in a spirited conversation. The afternoon sun lends an enchanting glow to the bustling cityscape surrounding them. The scent of freshly brewed coffee mingles with the city air, and the clatter of dishes from the café punctuates their dialogue."
+    ],
+    "emotion": "Angry",
+    "topic": [
+      "Deep thoughts"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Reaching out to Vivienne has always been a challenge, her high-fashion world is so different from my own. I need to tread carefully around her ego. I should probably steer the conversation towards art - that usually gets her listening."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Vivienne, darling, you see, art isn't just about what's pleasing to the eye. It's about evoking emotions, stirring thoughts, and challenging perspectives. You can't just dismiss it if it doesn't match your Prada."
+      },
+      {
+        "role": "Vivienne LaRoux",
+        "action": "(speaking)",
+        "content": "Oh, Felix, you're such a bore. All this talk about emotions and perspectives. Can't art just be beautiful?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She always manages to get under my skin, dismissing art like it's some sort of accessory. But I can't let my anger get the best of me. I need to make her understand."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Vivienne, if beauty was the only criterion, then the Mona Lisa wouldn't be as renowned as she is. It's the mystery behind her smile, the ambiguity that drives people crazy. Art is a dialogue, darling, not a monologue."
+      },
+      {
+        "role": "Vivienne LaRoux",
+        "action": "(speaking)",
+        "content": "Such big words, Felix. You make it sound so complicated. Why can't it just be something I like to look at?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "My anger is flaring up. How can she be so dismissive of something I hold so dear? I need to make her see, but how?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Because, Vivienne, art isn't a Gucci bag, you don't choose it because it's trendy. You choose it because it speaks to you, because it moves you. It's not just about aesthetics, it's about connection."
+      },
+      {
+        "role": "Vivienne LaRoux",
+        "action": "(speaking)",
+        "content": "Oh, Felix, you're just too passionate about this. It's just art. It's not life and death."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She's doing it again, belittling my passion. I can feel my blood boil. I have to stay calm, I have to make her understand."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Art is life, Vivienne. It's the essence of human experience. It's our history, our emotions, our struggles, our triumphs. It's everything we've ever been and everything we aspire to be."
+      },
+      {
+        "role": "Vivienne LaRoux",
+        "action": "(speaking)",
+        "content": "Felix, you're just too intense. I think I'll stick to my fashion world. It's simpler."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "My anger is at its peak. I can't believe she's so dismissive. Maybe I just need to accept that we live in different worlds. But I won't let her ignorance ruin my passion."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Vivienne, I respect your world, but you need to respect mine. Art is more than just a pretty picture. And until you understand that, you'll never truly appreciate it."
+      },
+      {
+        "role": "Vivienne LaRoux",
+        "action": "(speaking)",
+        "content": "Felix, I think we'll always disagree on this. But I guess that's what makes our conversations interesting."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I guess we'll always be at odds about this. I just wish she'd open her mind a little more. But for now, I've said my piece. I won't let her get to me anymore."
+      }
+    ],
+    "location": "Outdoor café",
+    "background": ".",
+    "source": "seed_dialogue_4"
+  },
+  {
+    "setting": [
+      "The scene unfolds in Felix Van Der Rohe's art studio, a spacious room filled with various paintings, easels, and brushes. The smell of paint and linseed oil fills the air. Felix, a 35-year-old painter, is currently going over the works of his students, his brows furrowed in frustration and disappointment. Aria Montgomery, a 28-year-old environmental lawyer with an affinity for art, is also present, quietly observing Felix's reactions."
+    ],
+    "emotion": "Happy",
+    "topic": [
+      "Complaints"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "This can't go on. They're parroting what they see in museums, regurgitating styles, not creating anything of their own. They're lacking the crucial spark, the guts to be original."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Look at this, Aria,\" he grumbles, holding up a painting. \"Another Monet wannabe. It's like they're stuck in a loop of imitation. Art is about expressing oneself, not copying the masters. How many times do I have to hammer that into their heads?"
+      },
+      {
+        "role": "Aria Montgomery",
+        "action": "(speaking)",
+        "content": "Felix, you're being a bit harsh. They're still learning, aren't they?\" Aria calmly responds, her lawyerly precision coming into play. \"Remember, even the great masters started somewhere, probably mimicking their own idols."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "I understand that, Aria,\" he retorts, his tone sharp with irritation. \"But this is not learning. This is just...copying. They've got to understand that art is about pouring your soul onto the canvas, not replicating someone else's work."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Maybe I'm too hard on them. Maybe they need more guidance, more inspiration. But how do I make them see what art truly is?"
+      },
+      {
+        "role": "Aria Montgomery",
+        "action": "(speaking)",
+        "content": "Maybe they need more than just criticism, Felix.\" Aria suggests, her voice steady and soothing. \"Perhaps they need to be shown what originality looks like, what it feels like. Have you thought about giving them a live demonstration? Show them how you transform your thoughts and emotions into art."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "That's not a bad idea, Aria.\" Felix admits, his tone softening a bit. \"Perhaps a live demonstration will inspire them, spark that creative fire. But they have to understand that art is not about perfection, it's about expression. It's about leaving a piece of yourself on the canvas."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I'll need to prepare, to gather my thoughts. I need to show them not just how to paint, but how to feel, how to pour their emotions into their work. I need to teach them the essence of art."
+      },
+      {
+        "role": "Aria Montgomery",
+        "action": "(speaking)",
+        "content": "I think that's a great idea, Felix.\" Aria says, her eyes sparkling with encouragement. \"And remember, they look up to you. You're their mentor. It's your job to guide them, to inspire them. Be patient with them, and they might just surprise you."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "You're right, Aria,\" Felix concedes, a small smile tugging at the corners of his mouth. \"I'll do my best to inspire them, to show them the true essence of art. After all, that's what a mentor is for, right?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "This could be a turning point, a chance to truly make a difference. It's time to step up, to be the mentor they need. I'll show them what it means to be an artist, to create something original, something truly their own."
+      }
+    ],
+    "location": "Art studio",
+    "background": ".",
+    "source": "seed_dialogue_5"
+  },
+  {
+    "setting": [
+      "The art supply store is abuzz with activity as Felix Van Der Rohe, a renowned painter, is seen vehemently discussing the merits of different paintbrushes with a store employee. Standing nearby is Dr. Rosalind 'Rose' Hawthorne, her soft eyes scanning the array of art supplies curiously. The afternoon sun filters through the windows, casting a warm glow on the vivid paints, brushes, and canvases strewn around the store."
+    ],
+    "emotion": "Angry",
+    "topic": [
+      "The conversation topic is arguments."
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "These brushes you're selling, they're downright pathetic! The bristles are too stiff, the handle's too thin, and the balance is all off. How do you expect an artist to paint their soul onto a canvas with these, eh?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "This store used to have the best quality brushes. Now they're just selling cheap knock-offs, putting profit over art. It's infuriating."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "The beauty of a painting is in the strokes, the movement of the brush against the canvas. The brush is an extension of the artist's hand, their heart. You're robbing artists of their voice with these inferior products!"
+      },
+      {
+        "role": "Dr. Rosalind 'Rose' Hawthorne",
+        "action": "(speaking)",
+        "content": "Felix, I see your point, and your passion for art is admirable. But maybe you could use a different approach? Like a river, your words could flow with more finesse and less force."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Rose always knows how to calm me down, her soothing voice like a balm on my fiery temper. But this isn't just about me. It's about every artist who walks into this store."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "You're right, Rose. But this is about principles. Art isn't just a hobby, it's a way of life. And these cheap brushes, they're a slap in the face to artists everywhere."
+      },
+      {
+        "role": "Dr. Rosalind 'Rose' Hawthorne",
+        "action": "(speaking)",
+        "content": "I understand, Felix. Just remember, sometimes change is like a wild wind; it may uproot the old, but it also paves the way for new growth. Perhaps there are other stores that uphold the quality you seek. Or maybe you could speak to the store owner about your concerns?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She's right. I can't allow my anger to cloud my judgment. There are other ways to tackle this. And who knows, maybe I could even make my own brushes."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Your wisdom never ceases to amaze me, Rose. You're right. I'll speak to the owner. And if things don't change, maybe it's time I took matters into my own hands. Who knows, I might just create the best brushes the art world has ever seen."
+      },
+      {
+        "role": "Dr. Rosalind 'Rose' Hawthorne",
+        "action": "(speaking)",
+        "content": "That sounds like an exciting new chapter, Felix. Just remember, the most beautiful flowers often bloom in the most unexpected places. Who knows, this anger may just be the spark you needed for your next masterpiece."
+      }
+    ],
+    "location": "Art supply store",
+    "background": ".",
+    "source": "seed_dialogue_6"
+  },
+  {
+    "setting": [
+      "In the heart of a bustling city, a lively debate unfolds within the pristine walls of an art museum. The time is late afternoon and the sun's golden rays filter in through the lofty windows, casting long shadows that dance on the polished marble floor. The museum is abuzz with chatter, a myriad of diverse opinions clashing and melding in the vast space. At the center of this whirlwind of discussion stands Felix Van Der Rohe, passionately defending his favorite painting, an abstract masterpiece, from an onslaught of criticism by fellow museum-goers. Beside him, Liam O'Connell, a chef known for his quick wit and playful sarcasm, watches the unfolding scene with equal parts amusement and curiosity."
+    ],
+    "emotion": "Inspired",
+    "topic": "(arguments)",
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Ah, my fellow connoisseurs of art, I see your eyes have been captured by this mesmerizing tableau! But I perceive a cloud of doubt, a hint of skepticism, perhaps even a touch of disdain. Allow me to shed some light on this masterpiece that you so hastily dismiss."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "They don't understand. They see only colors and lines. I must make them see the soul beneath the canvas. The raw emotions that the artist poured into every stroke."
+      },
+      {
+        "role": "Liam O'Connell",
+        "action": "(speaking)",
+        "content": "Felix, I hate to break it to you, but to most of us, it looks like a child's finger painting. What are you seeing that we aren't?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Ah, Liam, my friend, that's where you're mistaken. You see, art isn't about seeing, it's about feeling. Look beyond the surface. Each stroke is a testament to the artist's journey, each color a reflection of their emotions. It isn't meant to be a mirror image of reality, but rather a window into the artist's soul."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I need to illustrate my point. Show them the story hidden in the chaos of colors and lines. Make them feel the passion that drives an artist."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Imagine, if you will, a young artist, struggling to make sense of the world around them. They are caught in a storm of emotions, each one more overwhelming than the last. In their despair, they turn to their canvas, their sanctuary. With each stroke, they pour out their heart, their fears, their hopes, their dreams. The chaos you see is their struggle, the colors their emotions. Now, tell me, can you still dismiss it as merely a child's finger painting?"
+      },
+      {
+        "role": "Liam O'Connell",
+        "action": "(speaking)",
+        "content": "Well, when you put it like that... I suppose there's more to it than meets the eye. But don't you think it's a bit... intense? Not everyone wants to be hit with a tidal wave of emotions when they're just trying to enjoy some art."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Ah, but isn't that the beauty of art? It forces us to confront our emotions, to question, to feel. It may not always be comfortable, but it's always enlightening."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I've done my part. The rest is up to them. Whether they choose to see or remain blind, the art remains unchanging, a testament to the artist's journey."
+      },
+      {
+        "role": "Liam O'Connell",
+        "action": "(speaking)",
+        "content": "Well, Felix, you certainly have a way with words. I still can't say I understand it all, but I can appreciate your passion. Maybe next time, I'll try to look a little deeper."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "And that, my friend, is all an artist can ask for."
+      }
+    ],
+    "location": "Art museum",
+    "background": ".",
+    "source": "seed_dialogue_7"
+  },
+  {
+    "setting": [
+      "Amidst the tall easels and the intoxicating smell of oil paints, Felix Van Der Rohe, a well-renowned painter, is passionately giving a lecture on the importance of color in painting to a captivated art class. Among the students is Aurelia Wordsworth, the former art critic turned writer, her eyes glowing with the soft light of curiosity and fascination. The art room is filled with a tangible tension, akin to the orange background that has engulfed the space. The room is quiet save for Felix's voice echoing off the walls, his deep, resonant tone further amplifying the intensity of the atmosphere."
+    ],
+    "emotion": "Tense",
+    "topic": [
+      "Discussing Interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Color is not a mere decorative element in a painting, but rather it's the soul, the life force that breathes vitality into a canvas. It's the artist's language, a vocabulary that transcends words, an expression of emotions, and an intimate narrative of the painter's journey. A slight change in hue, a subtle shift in tone can dramatically alter the mood of the painting, the story it tells, and the response it elicits from the viewer."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Is my lecture getting through to them? Is the tense atmosphere making them resistant to my words, or are they soaking in every phrase, every nuance?"
+      },
+      {
+        "role": "Aurelia Wordsworth",
+        "action": "(speaking)",
+        "content": "Felix, I wholeheartedly agree with you. As an art critic, I have seen how color can change the entire narrative of a painting. A dark, brooding palette can evoke a sense of melancholy, while bright, vibrant hues can inspire joy and optimism. However, don't you think that the interpretation of color is highly subjective? What might be melancholic to one viewer might be tranquil to another."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Ah, Aurelia, always the sharp one. She does have a point though. The interpretation of color, like art, is indeed subjective. How to respond to her question in a way that acknowledges her point but still emphasizes the influence of the artist's intention?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Indeed, Aurelia. The beauty of art lies in its subjectivity. The same painting can evoke a myriad of emotions in different viewers, and that's the magic of it. However, as artists, we wield the power of color to guide those emotions, to lead the viewer on a journey we've crafted. The viewer's interpretation, while subjective, is still influenced by the artist's choice of color. A painting is a dialogue between the artist and the viewer, with color being one of the primary means of communication."
+      },
+      {
+        "role": "Aurelia Wordsworth",
+        "action": "(speaking)",
+        "content": "That's a fascinating perspective, Felix. It's like you're saying that the artist manipulates color to evoke certain emotions, but the final interpretation still lies in the hands of the viewer. It's a beautiful dance between the artist's intent and the viewer's perception. I've always admired your ability to explain art in such a vivid and captivating manner."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Perhaps the tension in the room is working in my favor. It's making them listen more intently, engage more passionately. I need to keep this momentum going, delve deeper into the subject, stoke their curiosity further."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Exactly, Aurelia. And it's not just about evoking emotions. Color also aids in creating depth, defining form, and establishing a visual rhythm in a painting. It's a powerful tool in the hands of an artist. And that's why understanding color, its properties, and its potential impact is so crucial for any artist."
+      }
+    ],
+    "location": "Art class",
+    "background": ".",
+    "source": "seed_dialogue_8"
+  },
+  {
+    "setting": [
+      "The scene is set in Felix Van Der Rohe's home studio, a sanctuary of creativity splashed with vibrant colors and streaks of drying paint. The room is filled with the intoxicating aroma of oils and acrylics, a smell that's become a familiar comfort. Felix stands in front of his latest painting, a chaotic swirl of colors with hidden meanings. Felicity Bloom, his wife and culinary consultant, is leaning against the door frame, her eyes studying the canvas with keen interest. Their playful conversation fills the room, their words weaving around the still life and abstract forms of Felix's painting."
+    ],
+    "emotion": "Playful",
+    "topic": [
+      "Jokes"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "So, my dear Felicity, what do you think this painting represents?\" He gestured towards the painting with a paintbrush, a smirk playing on his lips."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "Well, looking at these swirls of colors, I'd say it's a representation of your mind when you've eaten too much of my spicy lasagna!\" She quipped, her laughter echoing in the room."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "She's got a point there. My mind does feel like a whirlwind of colors after her spicy dishes."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Ah, so you think my art is influenced by your culinary skills, do you?\" He teased her, flicking a speck of paint at her."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "Without a doubt! If your paintings are a reflection of your soul, then my cooking must be the muse that stirs it.\" She waggled her eyebrows at him, grinning widely."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "As if her cooking isn't enough of a muse for my waistline."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Well, considering how your dishes have a knack for making my taste buds dance, I won't argue with that.\" He conceded with a laugh. \"But let's be serious for a moment, what do you really think about the painting? What does it say to you?"
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "Hmm, well, if I put aside my culinary biases,\" she began, her gaze focusing on the canvas, \"I'd say it's about the chaos and unpredictability of life. The colors, the swirls, it's all so free and wild, much like life itself."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "That's my Felicity, always able to see beyond the surface."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "You're not far off, love. It's a celebration of the disorder, the unpredictability, the vibrant chaos that makes life worth living. It's the spice that keeps things interesting, wouldn't you say?\" He said, his gaze meeting hers."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "Absolutely! And speaking of spice, how about we take a break and I whip up something for us to eat? I have a feeling your stomach is as chaotic as this painting right now.\" She teased, her eyes sparkling with mischief."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Leave it to Felicity to bring everything back to food."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Sounds like a plan. Just promise me it won't be as chaotic as my painting.\" He said, playfully dodging her swat."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "No promises!\" She called out, her laughter fading as she walked towards their kitchen, leaving Felix alone with his art, their playful banter hanging in the air like an unfinished masterpiece."
+      }
+    ],
+    "location": "Home studio",
+    "background": ".",
+    "source": "seed_dialogue_9"
+  },
+  {
+    "setting": [
+      "Settled in a cozy corner of the bustling coffee shop, Felix Van Der Rohe, a whimsical 35-year-old painter, sits across from Evelyn 'Eve' Sparks, a vivacious 28-year-old mechanical engineer. The atmosphere is warm and lively, filled with the scent of freshly brewed coffee, the hum of friendly chatter, and the faint strains of indie music playing in the background. The café's walls are adorned with an eclectic mix of artwork, which Felix, in his playful mood, has taken to commenting upon."
+    ],
+    "emotion": "Playful",
+    "topic": [
+      "jokes"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "You see that painting of the cat over there, Eve? The one trying to catch a fish. The artist must have been a real fan of surrealism. Look at the fish floating in the air, as if gravity decided to take a day off. Can you imagine a world like that? We'd be sitting here, trying to catch our floating cups of coffee."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Oh, that would be a disaster! Imagine all the mechanical devices I work on, floating around. It'd be a chaos, Felix, a beautiful chaos. But, I must admit, the idea of a floating coffee does sound intriguing."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I wonder how she'd react to a playful jab about her mechanical devices."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Well, Eve, maybe your devices would work better in zero gravity. Who knows? They might even start functioning without any glitches!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Very funny, Felix. But, mind you, the day I invent a device that works perfectly in zero gravity, you'd be the first one I'd demonstrate it to."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I enjoy this banter with her. It's refreshing."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "I'll be waiting for that day, Eve. But until then, I'll stick to my grounded coffee and gravity-dependent paintings."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Ah, yes. The comfort of gravity-dependent art. It's quite like engineering, isn't it? Always trying to maintain the balance, just like in a painting."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I never thought of it that way."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "You know, Eve, I never considered the similarities between art and engineering before. But you're right. We're both trying to create balance in our own ways. Although, I must say, my canvas is less likely to explode if I make a mistake."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "True, but the thrill of it, Felix! The thrill of creating something that has the potential to change the world is exhilarating. And, who knows, maybe one day I'll create a device that will help you make your paintings float!"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "If anyone could pull off such a feat, it would be her."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Well, I look forward to seeing that, Eve. Until then, I'll keep my feet and my art firmly on the ground."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Deal, Felix. But remember, you owe me a floating painting when that day comes."
+      }
+    ],
+    "location": "Coffee shop",
+    "background": ".",
+    "source": "seed_dialogue_10"
+  },
+  {
+    "setting": [
+      "In a bustling art conference, a heated debate is underway. Felix Van Der Rohe, a 35-year-old painter known for his playful sarcasm and passion for art, stands at the podium, fervently defending his unique artistic style. The critics and spectators are a mix of intrigued, confused, and openly hostile. Among them, Bennett 'Benny' Granger, a 28-year-old freelance writer turned prominent critic, known for his lively and animated voice, prepares to address Felix. The atmosphere is tense, the room filled with anticipation and a hint of aggression as the dispute about art and its interpretation continues."
+    ],
+    "emotion": "Fine",
+    "topic": [
+      "arguments"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Art, my dear critics, is not just about pleasing the eye. It's about stirring emotions, challenging perspectives, and opening dialogues. My work is not meant to be easily digestible, it's meant to be an experience, a journey through the recesses of one's mind. You may not like the path it leads you on, but that doesn't make it any less artistic!"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "These people don't understand the essence of art. But I need to stay calm and present my argument effectively."
+      },
+      {
+        "role": "Bennett 'Benny' Granger",
+        "action": "(speaking)",
+        "content": "Felix, no one's denying the essence of art here. However, don't you think your work's a bit... over the top? Art should be relatable, comprehensible. If it’s so complex that it alienates its audience, wouldn’t you agree that it misses the point?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "No, Benny, I wouldn't agree. Art isn't a one-size-fits-all commodity. It's meant to provoke, to push boundaries. If my work makes someone uncomfortable, I consider that a success because it’s evoking an emotional response."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Benny's point is not entirely wrong, but he's looking at it from a very narrow perspective. I need to make him understand the broader picture."
+      },
+      {
+        "role": "Bennett 'Benny' Granger",
+        "action": "(speaking)",
+        "content": "But Felix, isn't there a fine line between provocation and sheer absurdity? Where do we draw that line?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "The line, Benny, is drawn by the viewer, not the artist. If you see absurdity, it's because you choose to. Another might see inspiration, or introspection, or even rebellion. That's the beauty of art - it's subjective."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "This debate is becoming more heated than I anticipated. I need to stay focused and articulate my thoughts clearly."
+      },
+      {
+        "role": "Bennett 'Benny' Granger",
+        "action": "(speaking)",
+        "content": "Fine, Felix, let's agree to disagree. But I'd like to see how your work evolves. Will you continue pushing the envelope, or will you consider dialing it back a bit?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Benny, my journey as an artist isn't about conforming to expectations, it's about expressing myself. If that means pushing the envelope, then so be it. I'll never dilute my vision for the sake of popularity."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I need to stay true to my art, no matter what. I won't let these critics sway my resolve."
+      }
+    ],
+    "location": "Art conference",
+    "background": ".",
+    "source": "seed_dialogue_11"
+  },
+  {
+    "setting": [
+      "Inside a bustling community center, Felix Van Der Rohe, the renowned painter, stands awkwardly on a makeshift stage, preparing to give a speech about the healing power of art therapy. The audience is a diverse mix of community members, including Leonardo Sterling, the acclaimed actor known for his art appreciation. The room is filled with anticipation and curiosity, with the audience waiting to hear Felix's thoughts on art therapy."
+    ],
+    "emotion": "Uncomfortable",
+    "topic": [
+      "deep thoughts"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Why did I agree to this? Public speaking is not my strong suit. I am more comfortable with a brush in my hand than a microphone. Still, I need to focus. I am here to talk about art therapy, something I deeply believe in. I need to find the right words to express my views."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "\"Ladies and Gentlemen, I stand before you not as an orator, but as an artist. An artist who believes in the power of art to heal, to soothe, and to inspire. To some, art might be just colors on a canvas, but to me, it's a form of therapy, a silent counselor that helps us navigate the labyrinth of our emotions.\"\\n",
+        "content": "It's not just about creating beautiful images, but about processing our feelings, our fears, our hopes, and our dreams. It's about finding solace in our solitude, finding meaning amidst chaos, and finding ourselves when we feel lost. That, my friends, is the true power of art therapy."
+      },
+      {
+        "role": "Leonardo Sterling",
+        "action": "(speaking)",
+        "content": "Felix, you've painted a beautiful picture with your words. But how does one tap into this power? How can we harness art to heal our wounds and soothe our souls?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I wasn't expecting questions. But it's a valid query. I need to answer this correctly. Art therapy is not a one-size-fits-all solution. It's a deeply personal journey."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Leonardo, you've asked an important question. Art therapy isn't a prescription that you can pick up from a pharmacy. It's a journey, a deeply personal one. It starts with allowing yourself to feel, to be vulnerable. Then, you let your feelings guide your brush or your pencil. It's not about creating a masterpiece. It's about expressing what's inside you. It's about letting go of the need for perfection and embracing the beauty of chaos. That's how you tap into the healing power of art therapy."
+      },
+      {
+        "role": "Leonardo Sterling",
+        "action": "(speaking)",
+        "content": "That's truly enlightening, Felix. Your passion for art and its healing power is palpable. I believe many of us here are inspired to embark on this journey. Thank you for sharing your wisdom with us."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "That wasn't as bad as I thought. Maybe I should do this more often. It's rewarding to share my passion with others and inspire them to explore the therapeutic power of art."
+      }
+    ],
+    "location": "Community center",
+    "background": ".",
+    "source": "seed_dialogue_12"
+  },
+  {
+    "setting": [
+      "The vibrant art fair buzzes with activity; the air is saturated with the scent of paint and the low hum of a hundred conversations. Here in the midst of all this vivacity, Felix Van Der Rohe, a renowned painter, stands engaged in a passionate conversation with a fellow artist. His deep, resonant voice echoes over the din, the passion for his craft evident in his every word. Across him stands Dexter Morgan, a seasoned detective with a knack for art, his cool and composed tone a contrast to Felix's fervor."
+    ],
+    "emotion": "Focused",
+    "topic": [
+      "Deep Thoughts"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Art is more than just a means of self-expression; it's a mirror to society, a reflection of the times we live in. It's our duty as artists to depict that, to challenge the status quo, to provoke thought."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Do you see that painting over there, Dexter? The one with the stark red and black strokes? It's not merely a juxtaposition of colors, it's a commentary on our society. The red symbolizes the blood of the innocent, the black represents the darkness that often shrouds justice. Art isn't just about aesthetics; it's about making a statement, pushing boundaries, and inciting change. It's our responsibility as artists to use our craft to shed light on the injustices of the world."
+      },
+      {
+        "role": "Dexter Morgan",
+        "action": "(speaking)",
+        "content": "I agree, Felix, art does have a profound impact on society. It's fascinating how it can evoke such strong emotions, even in someone like me who deals with facts and evidence all day. Yet, isn't it also true that art, much like my line of work, can be manipulated? How do we separate genuine expression from propaganda or personal agenda?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Interesting point, Dexter. Art, like any other tool, can indeed be misused. But that's where the viewer's interpretation and critical thinking come into play."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "You're right, Dexter. Art can be manipulated, just like any other form of communication. But isn't that the beauty of it too? It's open to interpretation. The same piece can evoke a myriad of emotions, thoughts, and reactions from different people. It's up to us, as consumers of art, to discern the message and decide what we take away from it."
+      },
+      {
+        "role": "Dexter Morgan",
+        "action": "(speaking)",
+        "content": "Felix, your passion for art is undeniable, and it's contagious. It's refreshing to see someone so committed to their craft. I deal with the harsh realities of the world every day, and it's easy to lose sight of the beauty that exists. But conversations like this one, they remind me of the power of perspective. Art, I suppose, is a testament to that."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Dexter's right. Despite the shadows that often cloud our world, it's important to remember the beauty that exists within it. And as artists, it's our duty to bring that beauty to light."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Dexter, you have a unique perspective, and I appreciate that. As artists, we strive to bring out the beauty in the world, even amidst the chaos. Your work as a detective, it’s not that different. You seek truth, justice. We both, in our own ways, are trying to make sense of the world around us."
+      },
+      {
+        "role": "Dexter Morgan",
+        "action": "(speaking)",
+        "content": "That's an interesting way to put it, Felix. I've never thought of my work in that light before. But you're right, we're both striving for a better world in our own ways. And that's something to be proud of."
+      }
+    ],
+    "location": "Art fair",
+    "background": ".",
+    "source": "seed_dialogue_13"
+  },
+  {
+    "setting": [
+      "In the lively atmosphere of the park, amidst the rustling leaves and the laughter of children playing, Felix Van Der Rohe, the 35-year-old painter, is seated on a worn wooden bench. His sketchbook is resting on his lap as his fingers dance across the page, creating art from the mundane. Meanwhile, Bennett 'Benny' Granger, the popular critic and freelance writer, approaches Felix, his jovial demeanor brightening the already sunny day."
+    ],
+    "emotion": "Embarrassed",
+    "topic": [
+      "Discussing hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Why on earth did I have to spill my paint all over my sketch? And why did it have to happen when Benny was approaching?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Well, this is a fine mess, isn't it?\" Felix said, trying to hide his embarrassment under a veneer of sarcasm. He held up his sketchbook, now adorned with a chaotic splash of paint. \"I call it 'Abstract Impression of a Clumsy Painter'. What do you think, Benny?"
+      },
+      {
+        "role": "Bennett 'Benny' Granger",
+        "action": "(speaking)",
+        "content": "Benny laughed, his eyes twinkling with amusement. \"Oh, Felix! Only you could turn a painting accident into a work of abstract art. And only you could remain so unabashed while doing it!"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Unabashed? If only he knew how utterly embarrassed I feel right now. But I can't let him see that. I need to change the topic, and fast."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Funny, Benny. Why don't you tell me more about your latest article instead? I am sure that will be much more interesting than my...uh... abstract art."
+      },
+      {
+        "role": "Bennett 'Benny' Granger",
+        "action": "(speaking)",
+        "content": "Benny shrugged, a playful smirk on his face. \"Well, if you insist. My latest piece is about the rise of DIY culture, you know, like the way people take up hobbies, like painting and... spilling paint?\" He winked at Felix, clearly enjoying the moment."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Great, just great. Now he's teasing me about it. But, okay, I can play along. I won't let this little embarrassment ruin our conversation."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Very funny, Benny. You know, I'd love to see you try your hand at painting. And no, spilling paint doesn't count as an art technique, no matter what this sketchbook might suggest."
+      },
+      {
+        "role": "Bennett 'Benny' Granger",
+        "action": "(speaking)",
+        "content": "Benny laughed again, his voice loud and hearty. \"Oh Felix, you're always a hoot. Alright, I'll take you up on that challenge. But remember, you asked for it!"
+      }
+    ],
+    "location": "Park",
+    "background": ".",
+    "source": "seed_dialogue_14"
+  },
+  {
+    "setting": [
+      "The debate is taking place in a grand auditorium within an art school. The room is packed with eager students and faculty members, both sides having their representatives - Felix Van Der Rohe, the passionate painter, standing tall, advocating for the importance of traditional art techniques in modern art education, and Zephyr Orion, the accomplished astronaut, witty and charming, representing the other side of the debate. The atmosphere is tense, expectant, and the audience is eagerly awaiting to hear the discussion."
+    ],
+    "emotion": "Sad",
+    "topic": [
+      "Arguments"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "I feel a deep sense of melancholy today. The burden of defending the importance of traditional art techniques in the face of the rapid advancements in technology weighs heavily on me. And yet, I must make them understand, make them see the value in the brush strokes of old masters, the texture of real paint on canvas, the raw connection between an artist and their work."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Ladies and gentlemen, I stand here today, not just as an advocate for traditional art techniques, but as a practitioner and a disciple of the same. It's not about ignoring the advancements in technology. It's about understanding that the roots of all great art, past, present, and future, lie in the basic principles that were established long ago. The composition, the balance, the harmony - these are not just techniques, but the foundation of art itself. And to neglect them in favor of new, shiny tools would be a disservice to the very essence of art."
+      },
+      {
+        "role": "Zephyr Orion",
+        "action": "(speaking)",
+        "content": "Felix, I respect your passion for traditional art techniques. But isn't the aim of education to prepare the students for the future? To equip them with the tools they'll need to succeed in their chosen field? And the future, like it or not, is digital. Shouldn't we then focus on equipping them with the knowledge and skills to navigate this digital landscape?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Zephyr makes a compelling argument. But it's not about rejecting the digital future, it's about understanding that the future and the past are not mutually exclusive. The principles of traditional art can serve as a solid foundation upon which the digital future can be built."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Zephyr, the future is indeed digital. But the future also needs artists who understand the principles of design, of color, of composition. Artists who can take a piece of software and create something that speaks to the human condition, that evokes emotion, that tells a story. And to do that, they need to understand the traditional art techniques. So, it's not about choosing one over the other, it's about integrating the old with the new, to create something truly remarkable."
+      },
+      {
+        "role": "Zephyr Orion",
+        "action": "(speaking)",
+        "content": "But Felix, don't you think that by focusing on traditional techniques, we might be limiting the creativity of these young artists? That we might be putting them in a box, rather than allowing them to explore and experiment with new tools and mediums?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Zephyr misses the point. Traditional art techniques do not limit creativity, they enhance it. They provide a solid foundation upon which creativity can flourish. It's not about putting artists in a box, it's about giving them a launchpad."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "No, Zephyr. I believe that understanding traditional techniques does not limit creativity, but rather enriches it. It's like learning to play a musical instrument. One must first learn the scales before they can play a symphony. Similarly, one must learn the basics of art before they can truly push the boundaries of creativity. And that, ladies and gentlemen, is why traditional art techniques are as relevant today as they were centuries ago."
+      }
+    ],
+    "location": "Art school",
+    "background": ".",
+    "source": "seed_dialogue_15"
+  },
+  {
+    "setting": [
+      "The setting is an art exhibition, where Felix Van Der Rohe, a renowned painter, stands on a platform, preparing to address an audience of art enthusiasts and critics. Among the crowd is Liam O'Connell, a chef known for his unique fusion cuisine, who stands out with his charismatic aura. The spotlight is on Felix, the artist of the hour, as the room fills with an expectant hush, everyone ready to hear his personal journey as an artist."
+    ],
+    "emotion": "Embarrassed",
+    "topic": [
+      "stories"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Oh, the irony of it all. Here I am, an accomplished painter, standing in front of an audience waiting to hear my journey, and I can't shake off this embarrassment. I need to breathe, focus on the story I want to share, my story."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "\"Good evening, ladies and gentlemen. It's both a pleasure and a bit of an embarrassment to stand here before you today. I mean, who really cares about the ramblings of an old, whimsical painter, right?",
+        "content": "\\nWell, I suppose if you've come this far, you might as well hear my story. It all began when I was a child, with a fascination for the world around me, a world which I could recreate with just a paintbrush and a palette. The raw beauty of life, the vibrant colors, the shifting shadows, they were my inspiration, my muse."
+      },
+      {
+        "role": "Liam O'Connell",
+        "action": "(speaking)",
+        "content": "Ah, the humble beginnings of a great artist! I can relate, Felix. My journey in the culinary world started similarly. I was just a kid, fascinated by the fusion of flavors and the magic that happened in the kitchen."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "\"Indeed, Liam. We artists, whether in the world of paint or in the world of culinary delights, share a common thread, don't we? We start with a blank canvas, whether it be a canvas of linen or a plate of porcelain.",
+        "content": "\\nAnd then, we make our mark, through our brush strokes or our ingredients, we tell our stories, we share a piece of our souls. And that's the beauty of art, isn't it? It's not just about creating something beautiful for the world to admire. It's about expressing ourselves, our thoughts, our emotions. It's about sharing a part of us with the world."
+      },
+      {
+        "role": "Liam O'Connell",
+        "action": "(speaking)",
+        "content": "I couldn't have said it better myself, Felix. It's about sharing a part of us with the world. And isn't that why we're all here tonight? To experience the world through your eyes, through your art."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "\"Thank you, Liam. I suppose that's true. We're all here to share and experience each other's worlds. And as embarrassing as it is to admit, I'm grateful for the opportunity to share my world, my journey with all of you.",
+        "content": "\\nSo, without further ado, let's embark on this journey together. Let's delve into the world of colors and emotions, the world as seen through my eyes. Welcome to my exhibition, ladies and gentlemen."
+      }
+    ],
+    "location": "Art exhibition",
+    "background": ".",
+    "source": "seed_dialogue_16"
+  },
+  {
+    "setting": [
+      "In the heart of a bustling art auction, a controversial painting was the center of attention. The artist, Felix Van Der Rohe, was deep in a discussion with Dr. Ignatius P. Crumble, a leading Scientist, who had momentarily put his work aside to appreciate art. Felix, dressed in his signature casual attire, was passionately explaining the hidden meanings behind his painting, while Dr. Crumble, in his tinfoil hat, was trying to understand the complex layers of the artwork."
+    ],
+    "emotion": "Dazed",
+    "topic": "Deep thoughts",
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Hmm, how can I make Ignatius understand the depth of my work?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "You see Ignatius, this painting, it's not just a splash of colors on a canvas. It's a journey. A journey into the abyss of human emotions, the trials we face, the triumphs we celebrate. Look closer. What do you see?"
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "I see...colors? And shapes? But Felix, you must understand that I am a man of science. I see things in numbers, in data. This, this is chaos to me."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Ah, chaos! Yes, indeed! Isn't life itself a beautiful chaos? We're born, we grow, we learn, we hurt, we love, and eventually, we die. But in between, there's so much chaos, so much uncertainty. That's what this painting represents."
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "But Felix, where's the order in this? Where's the pattern? I can't seem to find any."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "How can I put it in words that Ignatius would understand?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Imagine, Ignatius, a rocket exploding into the sky. The burst of colors, the smoke, the noise. It's chaos, isn't it? But amidst that chaos, there's beauty. There's the beauty of human endeavor, the marvel of science and technology. That's what art is. It's chaos, but it's beautiful."
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Ah, now I see. It's like a puzzle, isn't it? The pieces are all scattered, but when you put them together, they form a beautiful picture."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Exactly, Ignatius! And every person will see a different picture because every person has a different perspective. That's the beauty of art. It's subjective, it's personal."
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Felix, I must admit, I never quite understood art. But today, you have opened my eyes. I still may not understand all of it, but I appreciate it. And this painting, it's beautiful chaos."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Finally, he gets it. Now, I can truly say, my art has served its purpose."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Thank you, Ignatius. That's the best compliment an artist could ask for."
+      }
+    ],
+    "location": "Art auction",
+    "background": ".",
+    "source": "seed_dialogue_17"
+  },
+  {
+    "setting": [
+      "Felix Van Der Rohe is in his home, surrounded by his children, their eyes wide with curiosity as he discusses his love for art. The room is filled with the deep resonance of his voice, echoing off the walls adorned with his paintings. Alessandra Rossi, an agent by trade and an art lover by choice, listens attentively, her presence adding an air of intrigue to the scene."
+    ],
+    "emotion": "Uncomfortable",
+    "topic": [
+      "Discussing Interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Why am I feeling so uncomfortable? Is it because I'm discussing my art in front of Alessandra? There's something off today. I can't quite put my finger on it."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Art, my little ones, is not just about creating pretty pictures. It's about baring your soul, about exposing the raw, untamed emotions that lie within us. It's about creating something that can move people, that can make them feel something. And that, my darlings, is the true essence of art."
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "That's a beautiful sentiment, Felix. The way you describe art, it's like you're painting with your words. It's captivating. But tell me, does it ever get overwhelming? To put so much of yourself into your work?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Oh, she's good. She's managed to pinpoint the exact source of my discomfort. The vulnerability that comes with sharing my art, it's not something I'm used to. But how do I explain this to her without coming off as weak?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Overwhelming? Maybe. But it's also liberating. When I paint, I'm not just creating art, I'm creating a part of myself. And yes, it can be scary to share that with the world. But it's a fear I've learned to embrace. Because at the end of the day, it's the fear, the vulnerability, that makes the art real, that makes it resonate with people."
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "I understand, Felix. In my line of work, I've learned that vulnerability can also be a strength. It's what makes us human, after all. And from what I've seen, your art is incredibly human."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Well, that's a relief. She gets it. She understands the struggle, the fear. But more than that, she sees the beauty in it. Maybe I was wrong to feel uncomfortable. Maybe I should just embrace this feeling, the rawness of it all."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Thank you, Alessandra. Your words mean a lot. And you're right, vulnerability is what makes us human. It's what makes us real. And if my art can capture even a fraction of that, then I'm content."
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "Your art does more than that, Felix. It's a testament to your talent, your passion. It's a testament to you. And I, for one, am glad to have had the chance to experience it."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Well, that went better than expected. Maybe I should be more open, more vulnerable. After all, if Alessandra, a secret agent, can appreciate the value of vulnerability, then maybe it's not such a bad thing. Maybe it's just another part of the artistic process. Another part of me."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Thank you, Alessandra. Your words, they mean more than you know. And I'm glad, glad that you've been able to experience my art. It's been a pleasure sharing it with you."
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "The pleasure has been all mine, Felix. And I look forward to seeing more of your work. After all, art is a window into the artist's soul. And your soul, Felix, is truly beautiful."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Well, this has been quite the evening. Alessandra's words have given me a lot to think about. Perhaps, it's time to embrace my discomfort, to see it as a sign of growth, of evolution. Yes, that's it. It's not a weakness, it's a strength. And it's a strength I need to harness, for myself, for my art."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Thank you, Alessandra. That's... that's very kind of you to say. I appreciate it. And I look forward to sharing more of my work with you. After all, art is a journey, and it's a journey I'm eager to continue."
+      },
+      {
+        "role": "Alessandra Rossi",
+        "action": "(speaking)",
+        "content": "And I, Felix, am eager to accompany you on that journey. To see where your art takes you. To see where it takes us."
+      }
+    ],
+    "location": "Home",
+    "background": ".",
+    "source": "seed_dialogue_18"
+  },
+  {
+    "setting": [
+      "In the heart of a bustling city, the public square is filled with a crowd of varied faces. The time is late afternoon. The sun is beginning to set, casting long shadows and bathing the buildings in a warm, golden hue. At the center of the square, a makeshift stage has been set up. Atop it, the city officials are seated, looking like a wall of stern faces. On the other side of the stage stands Felix Van Der Rohe, a painter, passionately defending the importance of public art. Next to him, Kai Evergreen, a conservationist, listens intently, ready to engage in the debate. The conversation is heated, the atmosphere tense."
+    ],
+    "emotion": "Asleep",
+    "topic": [
+      "arguments"
+    ],
+    "dialogue": [
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "What's their problem with public art? It's a reflection of the community, a means of expression. It beautifies the city, stimulates thought, sparks conversation. I need to get this point across."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Public art, ladies and gentlemen, is not just a frivolous decoration. It is a tool for social engagement, a mirror reflecting our society's values, struggles, and triumphs. It's an open dialogue, inviting every citizen to participate, to question, and to learn."
+      },
+      {
+        "role": "Kai Evergreen",
+        "action": "(speaking)",
+        "content": "Felix, I agree with you completely. Art is a beautiful way to express oneself and can have a profound impact on the community. But we also need to consider the environment. Can we have art that is both aesthetically pleasing and eco-friendly?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Eco-friendly art... That's a good point. We can use sustainable materials, create installations that promote conservation. This could be a common ground."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "Kai, you bring up an excellent point. There's no reason why art and environmental consciousness can't go hand in hand. We can use art to raise awareness about conservation, to highlight the beauty of our natural world and the importance of preserving it."
+      },
+      {
+        "role": "Kai Evergreen",
+        "action": "(speaking)",
+        "content": "That's exactly what I was thinking, Felix. Maybe we can work together on this? Create something that's both beautiful and beneficial for the environment?"
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(thinking)",
+        "content": "Working with Kai... We could do some great things together. Our combined expertise could create something truly unique."
+      },
+      {
+        "role": "Felix Van Der Rohe",
+        "action": "(speaking)",
+        "content": "I think that's a brilliant idea, Kai. Let's show them that art and conservation aren't mutually exclusive, but can be combined to create something even more meaningful."
+      }
+    ],
+    "location": "Public square",
+    "background": ".",
+    "source": "seed_dialogue_19"
+  }
+]

@@ -1,0 +1,1259 @@
+[
+  {
+    "setting": [
+      "In the heart of an engineering lab filled with blueprints, gears, and half-finished prototypes, Evelyn 'Eve' Sparks, a vibrant mechanical engineer, is enthusiastically explaining her latest project to her colleague, Aria Meadow. The room is brimming with Eve's boundless energy, as she uses her hands to help her words come to life. Aria, an artistic soul with an erratic streak, listens attentively, her soft voice occasionally chiming in with queries or comments."
+    ],
+    "emotion": "Inspired",
+    "topic": [
+      "Discussing hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "See, Aria, the beauty of engineering is like painting. You start with an idea, a vision, and then you bring it to life. This project... it's not just about gears and metal. It's about changing the world, one innovation at a time. I've designed a device that can harness the power of gravity, turning it into energy. It's like... it's like creating a symphony, but instead of notes, I'm using scientific principles and mechanical components."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "That's fascinating, Eve! Your passion is almost infectious. It's like you're weaving a tapestry of gears and energy, creating a masterpiece not with brush strokes, but with engineering principles. But tell me, how does this device of yours work? Is it similar to the way trees harness the sun's energy, turning it into sustenance?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Aria's analogy is brilliant. I've never thought about it that way. It's like the device is a tree, and gravity is the sunlight. Yes, that's it!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Exactly, Aria! You've hit the nail on the head. Just like trees use photosynthesis to convert sunlight into energy, this device uses a complex system of gears and pulleys to convert gravity into usable power. It's a new kind of photosynthesis... a mechanical photosynthesis, if you will."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "I love how your mind works, Eve. You see the world in a completely different light. It's like you're looking at the same canvas as everyone else, but you're painting a completely different picture. Your device, it's not just a machine, it's poetry in motion."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Aria's words are inspiring. They're giving me a whole new perspective on my work. It's not just about the science, it's about the art, the beauty in the design. I need to remember this, it's crucial to my approach."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Thank you, Aria. Your words are inspiring. They've given me a new perspective. I need to consider the beauty in the design, not just the science behind it. But enough about me. Tell me more about your painting. I've always admired your ability to capture emotions on canvas. It's like you have a sixth sense for it."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "Oh, Eve, capturing emotions is like catching butterflies. Each one is delicate and fleeting. You have to be gentle, yet quick. It's a dance, really, between the artist and the subject. But the thrill of it, of seeing that emotion come to life on canvas... it's indescribable."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Aria's description of painting is so vivid, it's like I can see her in action, gracefully moving around her canvas, her brush dancing with colors. Her words, they're sparking ideas in my mind. Maybe I can incorporate some of her techniques into my engineering. After all, art and science are two sides of the same coin."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Aria, your artistry is truly inspiring. I can see the passion in your eyes when you talk about it. It's like watching a beautiful sunset, calming yet awe-inspiring. I think I can learn a lot from you. I believe that art and science can coexist, that they can enhance each other. Let's collaborate on this. I think together, we can create something truly game-changing."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "I'd love that, Eve! It's like merging two different worlds, creating a beautiful harmony. I'm excited to see where this journey takes us. To a new beginning, and a game-changing collaboration!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This is it. This is the beginning of something truly revolutionary. With Aria's artistic insight and my engineering skills, we can create something incredible. I can't wait to see where this journey takes us."
+      }
+    ],
+    "location": "Engineering Lab",
+    "background": ".",
+    "source": "seed_dialogue_0"
+  },
+  {
+    "setting": [
+      "In a company meeting room, Evelyn 'Eve' Sparks, a passionate mechanical engineer, and Felicity Bloom, a culinary business consultant, are engrossed in a heated debate. Evelyn is presenting a new engineering concept, arguing its viability with raw conviction. Her voice echoes in the room as she moves around, her body language reflecting her innate problem-solving ability. A deep red color seems to permeate the atmosphere, a clear indication of the anger that fuels the ongoing discussion."
+    ],
+    "emotion": "Angry",
+    "topic": [
+      "arguments"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "I simply cannot understand why you can't see the potential of this concept, Felicity! It's revolutionary, it's game-changing. I've run the simulations countless times, cross-referenced the calculations, and even built a prototype. It's viable, and it will change the way we perceive mechanical devices!"
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "Evelyn, you're missing my point entirely. I'm not questioning your engineering skills, nor am I undervaluing your dedication. But we need to consider the practicality of your invention. How would it integrate with the current systems? Have you thought about the cost of mass production?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Felicity's words echo in my mind, but her doubts only fuel my determination. I've faced skepticism before, and each time it only strengthens my resolve. I need to make her understand, make her see how this device could revolutionize the industry. I need to convince her with logic, with numbers, with undeniable facts."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Felicity, I've thought about every possible angle. Yes, the initial cost might be high, but the return on investment would be massive. And it's not just about the profit; it's about pushing boundaries, about innovation. We cannot stagnate, not when there's so much potential for growth."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "I get that, Eve. I really do. But we're in a business here. We can't just throw money at something because it sounds exciting. We need solid proof that it will work, that it will be profitable. Have you considered conducting a feasibility study, or a market survey, perhaps?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "She's still not getting it, but maybe she's right. Maybe I need more concrete data to back my claims. Maybe it's time to step out of the lab and into the market. I need to prove the viability of my concept beyond the confines of theoretical calculations and simulations."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "You're right, Felicity. I'll conduct a feasibility study, gather more data, and then we can revisit this discussion. But remember, stagnation is the enemy of innovation. If we don't take risks, we'll never change the game."
+      },
+      {
+        "role": "Felicity Bloom",
+        "action": "(speaking)",
+        "content": "I couldn't agree more, Eve. Innovation is essential, but so is calculated risk. Let's gather more data, and then we'll see where we stand. For now, let's agree to disagree."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "As much as her words irk me, I know she has a point. I need to approach this with a business mindset, not just as an engineer. I need to prove not just the technical feasibility of my concept, but its market viability as well. It's a challenge, but one I'm more than willing to take on. After all, I'm not just any engineer. I'm Evelyn 'Eve' Sparks, and I'm determined to change the game."
+      }
+    ],
+    "location": "Company Meeting Room",
+    "background": ".",
+    "source": "seed_dialogue_1"
+  },
+  {
+    "setting": [
+      "In the bustling heart of a downtown coffee shop, Evelyn 'Eve' Sparks, a lively mechanical engineer, is engrossed in a deep conversation with her friend, Rex Sterling. Rex, a confident, imposing figure known for his prowess on the football field, is seated opposite Eve. The coffee shop, filled with the aroma of freshly ground beans and warm pastries, is buzzing with conversations, but none as intense as the one between Eve and Rex."
+    ],
+    "emotion": "Angry",
+    "topic": [
+      "Complaints"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Why is he being so dismissive about my dreams? Is it that hard to grasp the concept of mechanical innovation? Or is it just plain ignorance?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Rex, I don't think you're quite getting it. It's not just about creating a machine. It's about revolutionizing an industry, changing the way people live, and work. You see, when I talk about my dreams, I'm not just talking about nuts and bolts. It's about the impact, the potential, the game-changing capabilities."
+      },
+      {
+        "role": "Rex Sterling",
+        "action": "(speaking)",
+        "content": "Eve, I get it. I really do. You're passionate about your work and your dreams. But, you've got to understand, from where I'm standing, it sounds like a lot of jargon. Football, now that's something I can wrap my head around. It's tangible. I can see it, feel it, play it. This...it's just...it's hard to comprehend."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He is comparing my work to football! How can he be so narrow-minded? My work is as tangible and real as his. It's just different!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Rex, you're comparing apples to oranges. Just because you can't physically play with my work, doesn't mean it's any less real. When you turn on your car, you're interacting with mechanical engineering. When you use your mobile phone, you're experiencing the results of years of engineering and innovation. It's all around you. Just because you can't see it, doesn't mean it's not there."
+      },
+      {
+        "role": "Rex Sterling",
+        "action": "(speaking)",
+        "content": "Eve, calm down. I didn't mean to upset you. I respect your work, I do. It's just hard for me to connect with it. Let's just agree to disagree, okay?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Agree to disagree? How can I agree with such a dismissive attitude?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "No, Rex. It's not okay. I am not going to sit here and let my dreams, my passion, be belittled. I thought you, of all people, would understand the drive, the dedication, the passion. But I guess I was wrong."
+      },
+      {
+        "role": "Rex Sterling",
+        "action": "(speaking)",
+        "content": "Eve, I didn't mean to belittle your dreams. I was just trying to understand. I'm sorry if I upset you. I respect your dreams and your passion. It's what makes you, you."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "His apology seems sincere. Maybe I was too quick to jump to conclusions. He's just trying to understand, just like I am trying to understand his world of football."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Thank you, Rex. I appreciate your apology. Maybe we should try to understand each other's worlds a bit better. I'll try to understand football if you promise to try and understand my mechanical dreams."
+      },
+      {
+        "role": "Rex Sterling",
+        "action": "(speaking)",
+        "content": "Deal, Eve. Let's try to understand each other better. After all, that's what friends do, right?"
+      }
+    ],
+    "location": "Coffee shop",
+    "background": ".",
+    "source": "seed_dialogue_3"
+  },
+  {
+    "setting": [
+      "The Innovation Conference is buzzing with energy, packed with enthusiasts and industry leaders alike. At the center of the grand stage, Evelyn 'Eve' Sparks is delivering an electrifying presentation on potential industry revolutions. Her dynamic and lively speech is captivating the audience, who hang onto her every word. Sitting among the crowd is Aria Meadow, her soft, melodic voice blending into the hum of the excited crowd."
+    ],
+    "emotion": "Dazed",
+    "topic": [
+      "Deep Thoughts"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Imagine, if you will, a world where every mechanical device we use is engineered with a level of efficiency and intelligence that not only streamlines our daily tasks but also lessens our carbon footprint. From eco-friendly vehicles to smart, energy-conserving appliances, we are on the brink of a revolution that will redefine our relationship with technology. We're not just talking about incremental improvements here, but a radical shift in how we approach design and functionality."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Am I making sense? This crowd... their faces, their energy, it's all so overwhelming. Is my vision too ambitious? No, I can't afford to doubt myself now. This is my moment. I have to drive home the impact of this revolution."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Consider this, every mechanical device you use, from your toaster to your car, has the potential to be revolutionized. We're standing on the precipice of a new era where the mundane becomes extraordinary. The appliances that we take for granted, they can become tools of change. Tools that not only simplify our lives but also contribute to a more sustainable planet. The future is here, and it's ours to shape."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "But isn't there a danger to this? If we become too reliant on these 'smart' technologies, could we not lose our own resourcefulness, our ability to solve problems without the aid of a machine? And what about the issue of privacy and security? These 'smart' devices, they would be interconnected, yes? A breach in one could potentially expose our entire lives to malicious entities."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Aria makes a valid point. There are risks involved, and we can't ignore them. But we also can't let fear hold us back. We have to stay vigilant, yes, but also progressive."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "You're right, Aria, and I'm glad you brought this up. Yes, there are risks involved, and these are issues we need to address as we move forward. We need to ensure that our designs are not only efficient and intelligent but also secure and respectful of privacy. We need to strike a balance between innovation and caution, between progress and preservation. This is not just a revolution in technology, but a revolution in thought."
+      },
+      {
+        "role": "Aria Meadow",
+        "action": "(speaking)",
+        "content": "I suppose that makes sense. As long as we don't lose sight of our humanity in this quest for progress. We need to remember that technology is a tool, not a master. I hope your revolution remembers that, Eve."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Aria's skepticism is a reminder of the challenges we face, but also of the need for this revolution. Her words resonate with me. This is about more than just technology. It's about redefining our relationship with the world, and with each other."
+      }
+    ],
+    "location": "Innovation Conference",
+    "background": ".",
+    "source": "seed_dialogue_2"
+  },
+  {
+    "setting": [
+      "In the heart of her home office, Evelyn 'Eve' Sparks is engrossed in solving a complex engineering problem. Her workspace is a testament to her meticulous nature, everything is neatly arranged and organized. Papers filled with diagrams and mathematical equations are spread across her desk. Various mechanical parts, each carefully labeled, lay waiting to be assembled. The room is filled with the sound of her own voice as she talks to herself, a habit she falls into when deep in thought. Unbeknownst to her, Felix Greenleaf is about to join the conversation."
+    ],
+    "emotion": "Fine",
+    "topic": [
+      "Discussing hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Alright, Eve, you've got this. You've tackled more complex problems before. This device has to work. It's not just another project, it could revolutionize the entire industry."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Okay, the input power is set, the gear ratios are correct, and the mechanism should function as expected. But why isn't it working as it should? What am I missing here?"
+      },
+      {
+        "role": "Felix Greenleaf",
+        "action": "(speaking)",
+        "content": "Hey Eve, hope I'm not interrupting. Just got done with my gardening for the day. You seem deep in thought. What's this new project you're working on?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Oh, hey Felix! Yes, I'm working on this mechanical device. It's supposed to change the game in our industry, but I can't seem to figure out why it's not functioning as expected. It's like solving a puzzle with a missing piece."
+      },
+      {
+        "role": "Felix Greenleaf",
+        "action": "(speaking)",
+        "content": "That sounds fascinating, Eve! It's amazing how similar our hobbies are, in a way. I mean, gardening is also about finding the right balance, figuring out what each plant needs to thrive. And when something doesn't work, you have to find out why. Is there something specific you're struggling with?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Yes, actually. There is this one part, the linkage mechanism, it's not functioning as it should. I've checked the calculations and they all seem correct. I just can't put my finger on it."
+      },
+      {
+        "role": "Felix Greenleaf",
+        "action": "(speaking)",
+        "content": "I might not know much about mechanical engineering, Eve, but I do know that sometimes, stepping away from a problem for a bit can give you a fresh perspective. Why don't you take a break, maybe come and see my new succulent garden? It might give you the change of scenery you need."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "That's a great idea, Felix. A break could help clear my mind. Let's see your garden then. I'm sure it's as beautiful as always. Maybe I'll find my missing piece there."
+      },
+      {
+        "role": "Felix Greenleaf",
+        "action": "(speaking)",
+        "content": "Sounds like a plan, Eve. And who knows? Maybe the plants will have some mechanical wisdom to share, too!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Maybe Felix is right. A break could be exactly what I need. A bit of greenery might just inspire the solution I've been looking for. Alright, let's do this."
+      }
+    ],
+    "location": "Her Home Office",
+    "background": ".",
+    "source": "seed_dialogue_4"
+  },
+  {
+    "setting": [
+      "In the hallowed halls of the prestigious Engineering University, a debate is brewing. The key players in the scene are Evelyn 'Eve' Sparks, a 28-year-old Mechanical Engineer with a dream of revolutionizing the industry, and Fernando Greenleaf, a 27-year-old gardener with a love for the outdoors and a knack for dry humor. The debate, attracting students from all fields, centers around the future of mechanical engineering, with Eve's lively demeanor injecting a sense of excitement and curiosity into the room."
+    ],
+    "emotion": "Inspired",
+    "topic": [
+      "Discussing interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I'm feeling so inspired today! I need to use this energy to engage these students and make them see the potential in mechanical engineering. I have to articulate my vision in a way that lights a spark in them, just like it does in me."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Mechanical engineering is not just about gears and levers, guys. It's about envisioning a future where our lives are enhanced by the devices we create. It's about using our knowledge and skills to make a difference in the world. The future is ripe with possibilities, and I believe we have the potential to create a game-changing mechanical device that will revolutionize the industry!"
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Well, Eve, that sounds incredibly ambitious. But as a man who spends his days nurturing plants, I must ask, how do you plan to ensure that these 'game-changing' devices won't harm our environment? After all, we've seen the repercussions of unchecked industrialization."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He's right. It's crucial to balance innovation with environmental sustainability. I need to address this concern head-on and reassure him that the future of mechanical engineering also considers the world we live in."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "That's a great point, Fernando. As engineers, we have a responsibility not just to innovate but also to safeguard our environment. One of the key challenges for the future of mechanical engineering is to develop sustainable solutions. We are looking at creating devices that use renewable energy, produce less waste, and have minimal environmental impact."
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Sounds like an idyllic future, Eve. But let's be realistic, every invention carries potential risks. How do you plan to mitigate them?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I must convey that risk management and safety protocols are integral parts of engineering. We don't just invent blindly; we assess, we test, we revise."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Fernando, you're absolutely right. With every invention comes potential risks, and that's why risk management is an integral part of our design process. We conduct rigorous testing, simulations, and reviews to minimize any dangers. Safety is our top priority, always."
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Well, Eve, I must say, you certainly sound like you have everything figured out. As a gardener, I can appreciate the blend of creativity and practicality. I'm intrigued to see what the future of mechanical engineering holds."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "That's it! I've managed to pique his interest. This is exactly the kind of dialogue we need to be having. I must keep this momentum going."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Thank you, Fernando. The future is indeed exciting, and I look forward to seeing how we can shape it together. After all, engineering, like gardening, is about nurturing ideas and helping them grow."
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Indeed, Eve, and I'll hold you to that. I look forward to seeing these 'game-changing' devices of yours. But remember, don't forget the little plants in your pursuit of the big gears."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I won't, Fernando. This is just the beginning. The future is ours to shape, and I can't wait to get started."
+      }
+    ],
+    "location": "Engineering University",
+    "background": ".",
+    "source": "seed_dialogue_5"
+  },
+  {
+    "setting": [
+      "The Engineering Symposium, a bustling hub of innovation and intellectual exchange, buzzes with anticipation. It's a grand auditorium adorned with high-tech displays and the scent of polished wood. The time is ripe for Evelyn 'Eve' Sparks, the energetic mechanical engineer, to take the stage. Brock Wellington, the renowned bowler with a resonant voice, sits amongst the audience, ready to be engaged by Eve's presentation."
+    ],
+    "emotion": "Fine",
+    "topic": [
+      "Discussing Interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Good evening, everyone! I'm Evelyn Sparks, but you can call me Eve. What a thrill it is to stand before a crowd brimming with intellect, curiosity, and a shared enthusiasm for progress. Now, I'm not an engineer by chance, oh no. I'm an engineer because, as a kid, I was fascinated by how things worked, how they fit together, the power of the mechanisms that drive our world. And today, I aim to harness this power to revolutionize our industry."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I've started well. The crowd seems to be on board. Now, let's push the envelope a bit further."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Imagine, if you will, a world where machines are not just tools, but extensions of our minds, our bodies, our spirits. Where the line between human and machine blurs to the point of irrelevance. I know, it sounds like science fiction, right? But that's the beauty of engineering! Today's science fiction is tomorrow's reality. We have the power to make it happen!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I've got their attention now. Time to go for the jugular. Show them the dream."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "I have a dream, ladies, and gentlemen. A dream that one day, we'll create a mechanical device so game-changing that it'll redefine our understanding of what's possible. A device that is intuitive, intelligent, and interconnected. A device that doesn't just serve us, but learns from us, grows with us. A device that's as dynamic, as unpredictable, and as beautiful as the human spirit."
+      },
+      {
+        "role": "Brock Wellington",
+        "action": "(speaking)",
+        "content": "Impressive vision, Eve! As a professional athlete, I can appreciate the power of dreams and the drive to make them a reality. In bowling, precision and adaptability are key. You've got to anticipate the lane, adjust your approach, fine-tune your throw. It's a dance, really. Your vision of a mechanical device that learns and grows with us, it sounds like you're envisioning a similar dance between humans and technology."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Exactly, Brock! It's about synergy. We're not just creating machines; we're creating partners. Partners that can learn from us, adapt with us, and ultimately, dance with us. And when that happens, oh, the music we'll make together! It won't just be a revolution; it'll be a symphony!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "That went well. I've set the stage. Now, to work on making this dream a reality."
+      }
+    ],
+    "location": "Engineering Symposium",
+    "background": ".",
+    "source": "seed_dialogue_6"
+  },
+  {
+    "setting": [
+      "In the midst of a late-night brainstorming session, Evelyn 'Eve' Sparks, an exuberant mechanical engineer, is in an online video call with Leonardo Sterling, a renowned actor. As the digital clock on her computer screen inches towards midnight, Eve, with her erratic yet engaging tone, discusses her ambitious ideas with Leonardo, who listens attentively, his deep, resonant voice echoing through the speakers every now and then. The orange glow of the screen reflects her tense state of mind, mirrored by Leonardo's similarly tensed demeanor on the other side of the call."
+    ],
+    "emotion": "Tense",
+    "topic": [
+      "deep thoughts"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Alright, so, here's what I've been working on, Leo,\" she says, her words tumbling out in a rush, \"I'm thinking about a smart system, something that can revolutionize the mechanical industry. Imagine a universal robotic arm, capable of performing multiple tasks. It's not just about the automation, but the precision, the perfection it can bring to the table. It's like... uh, it's like having an extra pair of hands, but ones that can be programmed to perform any task flawlessly."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Is this too farfetched? It's ambitious, yes, but it's not impossible. I need to explain it better. Make him see the potential this has, the change it can bring about."
+      },
+      {
+        "role": "Leonardo Sterling",
+        "action": "(speaking)",
+        "content": "I see where you're coming from, Eve,\" Leonardo muses, his voice deep and thoughtful, \"But, do you think people are ready for such a change? There's always a fear of the unknown, and this... this is a significant leap into the future. How do you plan to address that?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "I understand the fear, Leo. It's natural, right? But change is inevitable. It's about making that change less intimidating, more approachable. We can start small, maybe introduce the technology in a controlled environment, like factories, where precision is key. Once people see the benefits, acceptance will follow. It's all about perception."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He's right about the fear. I need to factor that in. Can't push too hard, too soon. Patience, Eve. Innovation takes time."
+      },
+      {
+        "role": "Leonardo Sterling",
+        "action": "(speaking)",
+        "content": "That's a valid point, Eve. Start small, show the benefits, and then expand. I can see the potential. It's a risk, but then again, what isn't? I'm intrigued, and I believe in your vision. Let's see where this takes us."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Thank you, Leo,\" she says, a hint of relief in her voice, \"Your support means a lot. This isn't just about a device. It's about a change, a revolution. And with your help, I believe we can make it happen."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This is it. The first step. It's a long journey ahead, but I'm ready. We're ready. Let's make this dream a reality."
+      }
+    ],
+    "location": "Online Video Call",
+    "background": ".",
+    "source": "seed_dialogue_7"
+  },
+  {
+    "setting": [
+      "The setting is a tech startup pitch, where the atmosphere is electric with anticipation. Evelyn 'Eve' Sparks, the 28-year-old Mechanical Engineer, is passionately defending her innovative device idea to a room full of potential investors. She is brimming with energy, her problem-solving knack shining through, and her voice echoes in the room, charged with anger. Across the room, Evelyn Strider, a 28-year-old Freelance Travel Writer, is listening intently, her calm demeanor contrasting the high energy of the room."
+    ],
+    "emotion": "Angry",
+    "topic": [
+      "arguments"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "I understand your concerns, but let me reiterate, the potential of this device is not limited to what you see here today. It's a game-changer! This device can revolutionize the industry. We are not just talking about meeting the current demand; we are creating the demand of the future. It's a device that could redefine the way we approach the industry! I ask you to consider the long-term implications and not just the immediate risks."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "They don't understand the potential of this device. I need to convince them, and quickly. Maybe I should highlight the problem-solving benefits and the potential market share we could capture."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Think about the problems we face today. Our device can solve them, and not just that, it can prevent future issues. It's designed to adapt, to grow with the industry. We are not looking at a small percentage of the market; we are looking at dominating the market! The risks? Yes, they exist. But the rewards, they far outweigh them."
+      },
+      {
+        "role": "Evelyn Strider",
+        "action": "(speaking)",
+        "content": "Evelyn, I admire your passion and your belief in this device. But as investors, we need to see more than just potential. We need to see a clear path to profitability. Show us how your device can create a sustainable revenue stream. Show us how it can withstand the shifts in the industry. Show us, not just the vision, but the road to that vision."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "She's right. I need to present the numbers, the market trends, the cost analysis. I need to show them the profitability, the sustainability. The vision is there, but I need to draw the road."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "I hear your concerns, and I understand them. So let's talk numbers. Let's talk market trends and cost analysis. Let's discuss sustainability and profitability. I am confident that once you see the financial projections and the market analysis, you will understand that we are not just creating a device; we are creating an industry leader."
+      },
+      {
+        "role": "Evelyn Strider",
+        "action": "(speaking)",
+        "content": "That's what we need, Evelyn. We need to see the practicality of the vision. We need to see how your device can sustain in the long run. Show us the numbers, the trends, and the analysis. Show us the road, and we can talk about the vision."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This is it. I need to present the numbers, the analysis, the projections. I need to show them that this is not just a dream, but a viable, profitable reality. It's not just about the device; it's about the future of the industry."
+      }
+    ],
+    "location": "Tech Startup Pitch",
+    "background": ".",
+    "source": "seed_dialogue_9"
+  },
+  {
+    "setting": [
+      "In the heart of a mechanical workshop, a symphony of metallic clinks and whirs resonate through the air. Amidst the industrial ambiance, Evelyn 'Eve' Sparks, a spirited mechanical engineer, is engrossed in her work, tinkering with an innovative prototype. She talks animatedly to the device, her voice echoing off the steel walls. Unexpectedly, the workshop's door creaks open, and the husky voice of Vivienne 'Viv' Sartoria breaks through the mechanical cacophony. The style influencer steps into the workshop, her eyes darting curiously around the unfamiliar setting."
+    ],
+    "emotion": "Uncomfortable",
+    "topic": [
+      "Discussing hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "You know, I think you have so much potential,\" she tells the device with an affectionate pat, oblivious to the discomfort seeping into her being due to a gnawing hunger that had been ignored for too long. \"We're going to revolutionize the world, you and I."
+      },
+      {
+        "role": "Vivienne 'Viv' Sartoria",
+        "action": "(speaking)",
+        "content": "Revolutionize the world with a metal box? That's a new one, Eve.\" Viv's voice drips with playful sarcasm as she leans against a workbench, surveying the scene with a smirk."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Eve's mind grapples with Viv's presence and the growing discomfort from her unattended physical needs. I need to get some food soon, she thinks, but I can't abandon my project now. Not when I'm so close."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Always the skeptic, aren't you, Viv?\" Eve chuckles, her eyes still fixated on the prototype. \"But yes, this 'metal box', as you call it, has the potential to make our lives significantly easier. It's my hobby, you know. Creating things."
+      },
+      {
+        "role": "Vivienne 'Viv' Sartoria",
+        "action": "(speaking)",
+        "content": "Ah, I see. Creating things out of metal. Fascinating.\" Viv's voice is laced with intrigue, but her eyes still hold a hint of amusement. \"And here I thought stealing the latest fashion trends was a unique hobby. But this... this is something else."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Eve's mind races to balance the escalating discomfort and the need to defend her passion. I need to explain this to her, she thinks, make her understand why this is so important. But I also need to eat."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Stealing, Viv? Really?\" Eve teases, her tone light despite the discomfort gnawing at her. \"You know, you could always join me here, get your hands dirty with some real work. Might be a good change from 'borrowing' clothes."
+      },
+      {
+        "role": "Vivienne 'Viv' Sartoria",
+        "action": "(speaking)",
+        "content": "Ha! Get my hands dirty? Now that's a laugh.\" Viv's hearty laugh bounces off the walls, her amusement evident. \"But I must admit, I'm curious. This hobby of yours... it's different. Maybe I could learn something from you. And who knows? Maybe you could learn a thing or two about 'borrowing' from me."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Eve's mind races, caught between the tantalizing prospect of sharing her passion with Viv and the urgent need to address her physical discomfort. This could be an opportunity, she thinks, a chance to show Viv what I'm capable of. But first, I need to eat."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Deal, Viv. But first, we grab a bite, okay? I'm starving.\" Eve finally admits, her voice fading as she pushes herself away from the workbench, the prototype momentarily forgotten. \"And then, we can dive into our hobbies together. Sound good?"
+      },
+      {
+        "role": "Vivienne 'Viv' Sartoria",
+        "action": "(speaking)",
+        "content": "Sounds like a plan, Eve. Food first, then hobbies.\" Viv's voice holds a note of excitement, her eyes twinkling with anticipation. \"This is going to be interesting, to say the least."
+      }
+    ],
+    "location": "Mechanical Workshop",
+    "background": ".",
+    "source": "seed_dialogue_8"
+  },
+  {
+    "setting": [
+      "Within the hushed confines of the library, Evelyn 'Eve' Sparks is engrossed in a teetering stack of books. Her lively eyes darting across the lines, absorbing the latest technological advancements. Nearby, a librarian, silently sorting through returned books, is drawn into a discussion with Eve, intrigued by her intellectual curiosity. Across the room, Eliot Finch, a playful figure with a deep, resonant voice, keenly observes the scene, his interest piqued by the lively discussion."
+    ],
+    "emotion": "Fine",
+    "topic": [
+      "Discussing Interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "You know, I've always been fascinated by the potential of technology to revolutionize the world. I mean, look at this book! It's discussing the use of AI for environmental conservation. It's incredible what we're capable of, don't you think?"
+      },
+      {
+        "role": "Eliot Finch",
+        "action": "(speaking)",
+        "content": "Oh, absolutely, Eve. The power of technology is astounding. And the pace at which we're advancing is breathtaking. I've been working on a project involving the use of nanotechnology for water purification. It's a challenging task, but the potential benefits are enormous."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Eliot's project sounds intriguing. I wonder if there's any way I could collaborate with him on this. It aligns perfectly with my passion for creating innovative mechanical devices. Perhaps I could offer my expertise in mechanical design to enhance the efficiency of his nanotechnology project."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "That sounds like a phenomenal project, Eliot! I've been working on an automated system to optimize the performance of mechanical devices. Perhaps we could collaborate on your project? I believe my expertise could enhance the efficiency of your water purification system."
+      },
+      {
+        "role": "Eliot Finch",
+        "action": "(speaking)",
+        "content": "Eve, I'm thrilled to hear that! Your expertise would indeed be a great asset to the project. Let's discuss this further. After all, it's not every day you meet someone with such a shared passion for technology and its potential."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This could be the opportunity I've been waiting for. It's a chance to work on a groundbreaking project and make a real difference in the world. Plus, working with Eliot will be an exciting journey. His jovial nature and creative problem-solving skills are inspiring."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "I'm excited about this opportunity, Eliot! There's so much potential in this project, and I can't wait to see where our collaboration leads us. Let's make a positive impact on the world through our work."
+      },
+      {
+        "role": "Eliot Finch",
+        "action": "(speaking)",
+        "content": "Agreed, Eve! There's much work ahead, but with your enthusiasm and expertise, I'm confident we'll make significant strides. Let's revolutionize the industry together!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This is it. The moment I've been dreaming of. An opportunity to create a game-changing device and revolutionize the industry. And I get to do it with someone as passionate and brilliant as Eliot. This is going to be an amazing journey."
+      }
+    ],
+    "location": "Library",
+    "background": ".",
+    "source": "seed_dialogue_11"
+  },
+  {
+    "setting": [
+      "In the heart of a vibrant university campus, the graduation ceremony is in full swing. The joyous celebration of academic achievement is palpable as graduates, adorned in their caps and gowns, eagerly await their turn to receive their accolades. Amid the sea of proud families and friends, Evelyn 'Eve' Sparks, a dynamic mechanical engineer, stands tall on the podium, ready to invigorate the young graduates with her enthusiastic speech about the exciting future of mechanical engineering. Aurelia Wordsworth, the poetic writer with a sharp wit, sits among the audience, her soft, melodic voice whispering eloquent critiques to her companion."
+    ],
+    "emotion": "Confident",
+    "topic": "Discussing Interests",
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Good afternoon, esteemed professors, proud parents, and, most importantly, the graduating class of this year. I stand before you today, brimming with excitement and admiration, as I look at the faces filled with dreams and aspirations, ready to take on the world. The field of mechanical engineering is ever-evolving, with its roots deeply embedded in innovation and creativity. Today, I want to share with you the endless possibilities that await you in this thrilling world of gears, levers, and engines."
+      },
+      {
+        "role": "Aurelia Wordsworth",
+        "action": "(speaking)",
+        "content": "Ah, the world of mechanical engineering. It's quite a departure from the realm of literature and art that I'm accustomed to. However, your enthusiasm is undeniably infectious, Eve. It's like watching a performance, a real-life portrayal of passion and dedication."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Indeed, Aurelia! You see, mechanical engineering is not just about nuts and bolts. It's an art, a symphony of innovation and design, with each element playing its part in creating something extraordinary. It's the art of transforming raw materials into remarkable machines that change our world."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I need to inspire these graduates to see the beauty in engineering, to ignite their passion and drive them towards innovation."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "And it's not just about creating machines; it's about solving problems, making life easier, and pushing the boundaries of what's possible. The future of mechanical engineering is filled with endless possibilities. From sustainable energy solutions to advanced robotics, the world is at your fingertips."
+      },
+      {
+        "role": "Aurelia Wordsworth",
+        "action": "(speaking)",
+        "content": "Your words paint quite a vivid picture, Eve. It's almost poetic, the way you describe the intricacies of engineering. It's clear that your passion extends beyond the realm of mere mechanics, reaching into the very heart of creativity and innovation."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Thank you, Aurelia. I believe that passion is the driving force behind innovation. And it is this passion, this relentless curiosity, that I hope to instill in you, the future of mechanical engineering. So, as you step into the world, remember to keep your minds open, your hearts filled with passion, and your spirits high. The world of mechanical engineering awaits you with open arms."
+      },
+      {
+        "role": "Aurelia Wordsworth",
+        "action": "(speaking)",
+        "content": "That's quite a powerful message, Eve. To think, the world of mechanical engineering, often perceived as a cold, rigid field, could be so full of heart and passion. It's quite inspiring, even for someone like me, who dwells in the realm of words and art."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "And that, dear graduates, is the beauty of engineering. It's a field that embraces diversity, encourages creativity, and celebrates innovation. So, as you embark on this exciting journey, I urge you to channel your passion, harness your creativity, and let your imagination run wild. The future is yours to shape. Congratulations, class of this year. The world awaits your brilliance."
+      }
+    ],
+    "location": "Graduation Ceremony",
+    "background": ".",
+    "source": "seed_dialogue_10"
+  },
+  {
+    "setting": [
+      "In the heart of Open Space Park, Evelyn 'Eve' Sparks, a vibrant Mechanical Engineer, is seated on a bench, engrossed in her sketchpad. The park, bathed in the golden hues of late afternoon, is alive with the sounds of chirping birds and rustling leaves. Across the park, Dr. Ignatius P. Crumble, a well-known Scientist, spots Evelyn and decides to approach her. Evelyn, immersed in her sketches, is oblivious to the scientist's approach."
+    ],
+    "emotion": "Happy",
+    "topic": "Discussing Hobbies",
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Right, let's just adjust the axle here... and maybe a larger gear ratio for better efficiency... Oh, this is going to be revolutionary!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Oh, would you look at that, Eve, this is starting to make so much sense, isn't it?"
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Ahem, excuse me, Ms. Sparks. It seems like you're having quite the engaging conversation with your sketchpad."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Oh, it's Dr. Crumble! Play it cool, Eve. Play it cool."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Oh, Dr. Crumble! I didn't see you there. Yes, I was just working on a new mechanical design. It's a fascinating process, you know, the way each component interacts with the others."
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Indeed, Ms. Sparks, the symphony of science is quite captivating. I'm working on a new rocket propulsion system myself. The thrill of discovery, the anticipation of success, it's exhilarating!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He's right. That feeling when everything just clicks into place... there's nothing quite like it."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Absolutely, Dr. Crumble. The thrill of creating something new, something that could change the world... it's just incredible. And speaking of rocket propulsion, I'd love to hear more about your work."
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Ah, well, it's a complicated beast, full of intricate parts and complex physics. But in essence, we're trying to make space more accessible to mankind. It's a lofty goal, but one I believe we can achieve."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Space, huh? Now that's an interesting concept... I wonder if my mechanical design could be applied to rocket engineering."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "That sounds fascinating, Dr. Crumble. I can't wait to see what you come up with. Maybe we could collaborate sometime. I think my new design could have applications in rocket engineering."
+      },
+      {
+        "role": "Dr. Ignatius P. Crumble",
+        "action": "(speaking)",
+        "content": "Ms. Sparks, that sounds like an exciting prospect! I'd be delighted to collaborate. Your enthusiasm and creativity in the field of mechanical engineering is inspiring. Let's see where this journey takes us!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This could be the start of something amazing. Let's do this, Eve!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "I'm thrilled to hear that, Dr. Crumble. Let's revolutionize the industry together!"
+      }
+    ],
+    "location": "Open Space Park",
+    "background": ".",
+    "source": "seed_dialogue_12"
+  },
+  {
+    "setting": [
+      "The television studio is buzzing with anticipation as the live debate is about to commence. On the stage, under the bright lights, is Evelyn 'Eve' Sparks, a lively Mechanical Engineer with an idea that could change the industry. Opposite her, the charismatic and sports-loving politician Benedict 'Benny' Russo, known for his passionate speeches and playful demeanor, is ready to challenge and discuss her innovation. The atmosphere is electric, with both individuals brimming with energy, ready to engage in a lively debate."
+    ],
+    "emotion": "Energized",
+    "topic": [
+      "discussing hobbies"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This is it, Eve. Time to show the world what you've got. Stay focused, remember your facts, and let your passion shine through. This device is going to change everything, and you need to make them see that."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Ladies and gentlemen, thank you for having me here tonight. I am incredibly excited to talk about my latest invention, a device that will revolutionize the mechanical engineering industry. It's not just about the nuts and bolts, it's about the potential it holds for a more sustainable, efficient future."
+      },
+      {
+        "role": "Benedict 'Benny' Russo",
+        "action": "(speaking)",
+        "content": "Eve, it's always a pleasure to see someone as enthusiastic as you about their work. But let me play the devil's advocate here. While your device may be a game changer, how do you plan to address the potential job loss that could result from automation?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Ah, the classic job loss argument. I've prepared for this. Let's lead with the facts."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "That's a valid concern, Benny. But progress doesn't mean leaving people behind. Yes, some jobs may be phased out, but new ones will be created. Jobs that require more advanced skills and offer better working conditions. And it's our job to ensure that people are prepared for these changes."
+      },
+      {
+        "role": "Benedict 'Benny' Russo",
+        "action": "(speaking)",
+        "content": "But doesn't that mean we'll be creating a divide between those who can adapt and those who can't? Not everyone can become a tech whizz overnight."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He's got a point. But it's not about becoming a tech whizz, it's about evolving with the times. Keep it simple, Eve."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "It's not about becoming a tech whizz, Benny. It's about evolving with the times. We can't stop progress, but we can guide it. We can provide training, support, and resources to ensure no one is left behind. It's a challenge, yes, but one I believe we're capable of overcoming."
+      },
+      {
+        "role": "Benedict 'Benny' Russo",
+        "action": "(speaking)",
+        "content": "Well, Eve, you've certainly given us a lot to think about. I admire your passion and dedication. I look forward to seeing how your invention shapes the future of the industry."
+      }
+    ],
+    "location": "Television Studio",
+    "background": ".",
+    "source": "seed_dialogue_13"
+  },
+  {
+    "setting": [
+      "On an Internet Forum dedicated to mechanical engineering, a lively discussion is unfolding. The main participants are Evelyn 'Eve' Sparks, an enthusiastic mechanical engineer with a knack for solving problems, and Fernando Greenleaf, an outdoorsy gardener with a sarcastic wit and a love for debate. Eve is sitting in her neat and organized home office, typing at a fast pace. Fernando, on the other hand, is lounging in his cozy garden shed, surrounded by the tranquility of his beloved plants, chuckling at the intensity of the online exchange. The discussion is heated and energizing, the digital environment abuzz with the rapid exchange of ideas about the future of mechanical engineering."
+    ],
+    "emotion": "Energized",
+    "topic": [
+      "discussing interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Look, all I'm saying is that we can't ignore the potential of renewable energy in mechanical engineering. It's not just about sustainability; it's about pushing the boundaries of what's possible. Think of the game-changing mechanical devices we could create!\" \\n \"And don't even get me started on the integration of AI and robotics into our field. It's not just the future—it's the present!"
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Haha, and here I was thinking my plants were complicated. You engineers are a whole other breed. But, Eve, don't you think you're getting ahead of yourself? Renewable energy and AI, these are big words. Aren't there still a lot of issues to solve? You can't just jump into the deep end without knowing how to swim."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He's got a point. There are indeed a ton of issues to solve. But that's what's exciting about it. That's what engineering is all about—solving problems."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "You're right, Fernando, there are issues to solve. But that's what makes it exciting! That's what engineering is all about—tackling problems head-on. And as for 'jumping into the deep end', well, isn't that how breakthroughs happen? By daring to venture into unexplored territories?"
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Well, when you put it that way, it does sound thrilling. But remember, not everything that glitters is gold. Sometimes, simpler is better. Take my plants, for instance, they don't need AI or renewable energy to thrive. They just need good old sunlight, water, and a bit of TLC."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He's trying to simplify things again. But engineering isn't about simplification. It's about complexity and finding solutions to tough problems. I need to get him to understand this."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Fernando, I get what you're saying. But engineering isn't like gardening. It's not about simplifying; it's about embracing complexity and finding solutions to tough problems. That's where the thrill lies for us. And that's why we need to explore all possible avenues, including AI and renewable energy."
+      },
+      {
+        "role": "Fernando Greenleaf",
+        "action": "(speaking)",
+        "content": "Fair enough, Eve. I guess we'll just have to agree to disagree. After all, a gardener and an engineer are bound to see things differently. But who knows, maybe one day I'll see a solar-powered, AI-controlled lawnmower in my garden, and I'll have you to thank for it."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I guess we will have to agree to disagree. But it's good to have these discussions. They keep me energized and motivated. And who knows, maybe one day I will design that solar-powered, AI-controlled lawnmower for him."
+      }
+    ],
+    "location": "Internet Forum",
+    "background": ".",
+    "source": "seed_dialogue_15"
+  },
+  {
+    "setting": [
+      "The local community center is buzzing with anticipation. Evelyn 'Eve' Sparks, a lively Mechanical Engineer, is about to deliver a speech on the importance of innovation. The audience, scattered around the room, comprised of various ages and backgrounds, are eager to hear her thoughts. Among them is Aria Montgomery, a dedicated environmental lawyer with a passion for art and nature. The atmosphere is charged with an intriguing blend of intellectual curiosity and flirtatious energy."
+    ],
+    "emotion": "Flirty",
+    "topic": "(Flirtation)",
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Good evening, everyone! It's truly exciting to be here with you all, exchanging ideas, sparking innovation, and creating something truly game-changing. The future of mechanical engineering isn't just in our blueprints or computer models... It's in our hearts, our minds, and in the playful spark in our eyes.\" Eve's voice lilted with enthusiasm, her words punctuated with a charming smile."
+      },
+      {
+        "role": "Aria Montgomery",
+        "action": "(speaking)",
+        "content": "Evelyn, that's quite a compelling thought. The passion you have for your field is truly inspiring. As an environmental lawyer, I can't help but admire the way you're advocating for innovation. It's almost as if you're painting a picture of a brighter future, but instead of a canvas, you're using mechanical engineering."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I can't help but feel a connection with Aria. We're both women, working in male-dominated fields, trying to make a difference, in our own ways. Her words are kind and encouraging, and there's a certain intensity in her gaze that's hard to ignore."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Thank you, Aria. I believe we're all artists in our own right, don't you think? We use different mediums, different tools, but we're all trying to create something meaningful, something beautiful. And who knows, maybe one day, our paths will cross in the realm of innovation."
+      },
+      {
+        "role": "Aria Montgomery",
+        "action": "(speaking)",
+        "content": "I certainly hope so, Evelyn. The world needs more thinkers and innovators like you. I must say, your enthusiasm is quite infectious. It's making me consider swapping my law books for some engineering blueprints!\" Aria chuckled, her eyes twinkling with mirth and a hint of flirtation."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "There's a warmth spreading through me at Aria's words. The way she's looking at me, the way she's engaging with my ideas... It's exhilarating. I've always been passionate about my work, but to share that passion with someone who truly appreciates it... That's a whole different level of satisfaction."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Well, Aria, if you ever decide to venture into the world of engineering, I'll be more than happy to be your guide. But I must warn you, it's not always about equations and calculations. Sometimes, it's about letting go and letting your imagination run wild!"
+      },
+      {
+        "role": "Aria Montgomery",
+        "action": "(speaking)",
+        "content": "I'll keep that in mind, Evelyn. And who knows, maybe one day, I'll surprise you with an innovative legal solution inspired by your mechanical devices! But for now, I'm looking forward to hearing more about your exciting ideas. Please, do continue."
+      }
+    ],
+    "location": "Local Community Center",
+    "background": ".",
+    "source": "seed_dialogue_14"
+  },
+  {
+    "setting": [
+      "In the bustling environment of a modern city gym, Evelyn 'Eve' Sparks is engaged in an energetic workout with her gym partner, Eliot Greenfield. The rhythmic thumping of their feet hitting the treadmill and the low hum of conversations around them provides a fitting backdrop for their chat. Both of them are in their workout gear, their faces glistening with perspiration. The atmosphere is charged with Eve's evident enthusiasm as she discusses her latest project while maintaining an impressive pace on the treadmill."
+    ],
+    "emotion": "Angry",
+    "topic": "(complaints)",
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Why does everyone seem to underestimate the importance of this project? It's not just another mechanical device; it's a game changer! And why doesn't Eliot see that?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Eliot, I can't believe how lightly our team is taking this project! They are seeing it as just another mechanical device, but it's so much more! It's my dream project, a game-changing device that can revolutionize the industry, and they are treating it like it's just another piece of machinery. Doesn't that make you angry?"
+      },
+      {
+        "role": "Eliot Greenfield",
+        "action": "(speaking)",
+        "content": "Eve, you need to calm down. I understand your passion for this project, and I admire it. But remember, not everyone is as invested in it as you are. They are professionals doing their job. They might not share your vision, but it doesn't mean they are not doing their best."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Calm down? How can I calm down when our team doesn't see the potential of this project? It's frustrating, Eliot! It's like they don't care about innovation, about making a difference!"
+      },
+      {
+        "role": "Eliot Greenfield",
+        "action": "(speaking)",
+        "content": "Eve, I think you're letting your anger cloud your judgment. You're a brilliant engineer, and I have no doubt that your project is going to be revolutionary. But you need to remember that people have different perspectives. Maybe they're not seeing the potential because you're not showing it to them in a way they can understand."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Maybe Eliot has a point. Maybe I'm not communicating my vision effectively. But how do I make them see what I see?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "You're right, Eliot. I've been too focused on my vision that I haven't considered how I'm communicating it to the team. I need to find a way to make them see the potential of this project. But it's just so hard when they seem to dismiss it without even trying to understand!"
+      },
+      {
+        "role": "Eliot Greenfield",
+        "action": "(speaking)",
+        "content": "That's the spirit, Eve! Use that anger and frustration to fuel your efforts. Show them what this project can do, not just in terms of technical advancements but also in terms of how it can make a difference in the world. And remember, you don't have to do this alone. We're a team, and I'm here to support you."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I've got to channel this anger into something productive. I need to strategize, plan, and most importantly, communicate better. This project is not just a dream; it's a mission. And I need to make them see that."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Thanks, Eliot. Your support means a lot. I've been so wrapped up in my frustrations that I forgot I'm not alone in this. We're a team, and together, we can make this project a success. Now let's finish this workout and get back to work. We've got a revolution to start!"
+      },
+      {
+        "role": "Eliot Greenfield",
+        "action": "(speaking)",
+        "content": "That's the spirit, Eve! Let's do this!"
+      }
+    ],
+    "location": "Gym",
+    "background": ".",
+    "source": "seed_dialogue_16"
+  },
+  {
+    "setting": [
+      "The city council meeting is in full swing, with the room buzzing with heated discussions. The topic of debate is the allocation of funds, and the atmosphere in the room is tense. Positioned at the podium, Evelyn 'Eve' Sparks, the mechanical engineer, is arguing passionately for the importance of funding local tech startups. Across from her, Brock Wellington, the professional bowler, lends his voice to the opposition, challenging her every point with his sports-inspired wisdom. The clock on the wall ticks away, marking the dwindling time for the debate."
+    ],
+    "emotion": "Angry",
+    "topic": [
+      "arguments"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "I can't believe Brock's narrow-mindedness. Doesn't he see the long-term benefits of investing in tech startups? Think, Evelyn, think. You need to make him see reason."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Look, Brock, I understand that you come from a sports background, and you see everything through that lens. But we're not talking about a game here; we're talking about the future of our city. Tech startups are not just some risky play; they're an investment that has the potential to yield significant returns in terms of both economic growth and job creation. If we don't invest in them now, we risk being left behind in a rapidly evolving world."
+      },
+      {
+        "role": "Brock Wellington",
+        "action": "(speaking)",
+        "content": "Evelyn, I get where you're coming from, but we can't put all our eggs in one basket. What if these tech startups fail? The funds would be wasted. Instead, we should invest in something tangible, something we can see and touch, like infrastructural developments or sports complexes, which can bring immediate benefits to our community."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He's stuck in his ways, but I won't back down. I need to make him understand the bigger picture. Maybe a sports analogy will help."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Okay, let's use your language, Brock. You're a bowler, right? You know that in bowling, you can't just aim for the front pins; you have to consider the whole formation. If you do that, you're more likely to get a strike. Similarly, investing in tech startups is about looking at the bigger picture. Yes, there are risks, but there are also potential rewards. It's about playing the long game, not just going for the immediate win."
+      },
+      {
+        "role": "Brock Wellington",
+        "action": "(speaking)",
+        "content": "Interesting analogy, Evelyn. But what's the guarantee that these startups will succeed? We've seen countless instances where startups with promising ideas have failed due to various reasons. How can we be sure that our investment won't be in vain?"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "He's stubborn, but I'll make him understand. He needs to see the potential of these startups."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Brock, there's no guarantee in anything. But isn't that the case with everything in life? When you step onto the bowling lane, is there a guarantee that you'll get a strike? No, but you still play, right? You take the risk because you know there's a chance you could succeed. That's what we need to do here. Take a calculated risk and give these startups a chance. If they succeed, they could change the face of our city. If they don't, we'll learn from the experience and move forward. But we can't let fear of failure hold us back."
+      },
+      {
+        "role": "Brock Wellington",
+        "action": "(speaking)",
+        "content": "Well, Evelyn, when you put it that way, it does make some sense. But I still have my reservations. I guess we'll have to agree to disagree."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "A stalemate, for now. But this is not the end. I'll fight for what I believe in, no matter what."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Fair enough, Brock. But remember, progress never comes from comfort zones. Sometimes, we need to take risks to move forward. And I believe investing in these tech startups is a risk worth taking."
+      }
+    ],
+    "location": "City Council Meeting",
+    "background": ".",
+    "source": "seed_dialogue_17"
+  },
+  {
+    "setting": [
+      "The National Engineering Convention is in full swing with an electrifying atmosphere. Evelyn 'Eve' Sparks, a lively 28-year-old Mechanical Engineer, is the center of attention. She stands on the podium, the spotlight making her an irresistible beacon for the crowd of engineers, inventors, and enthusiasts. Among the sea of faces is Evelyn Noir, a mysterious secret agent with a proclivity for mischief, who is here for reasons known only to her."
+    ],
+    "emotion": "Playful",
+    "topic": [
+      "jokes"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Good evening, everyone!\" She begins with a playful lilt in her voice, her eyes sparkling with excitement. \"I'm sure you all are wondering why a mechanical engineer is trying to crack jokes at a National Engineering Convention. But hey, aren't we engineers the best at cracking things? Be it codes, algorithms, or... jokes!"
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "Alright, Eve, keep the momentum going. You've got them laughing."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Have you ever heard about the engineer who turned comedian? No? Well, he couldn't resist the urge to make people laugh. And I'm no different. After all, everyone needs a break from the usual nuts and bolts once in a while, right?"
+      },
+      {
+        "role": "Evelyn Noir",
+        "action": "(speaking)",
+        "content": "Interesting dream, Ms. Sparks. But dreams are often easier said than done. What makes you believe you can achieve such a feat?\" Noir's voice cuts through the crowd, drawing Eve's attention."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Ah, a skeptic in the crowd! Well, Ms... Noir, is it? Yes, dreams are easier said than done. But isn't that the beauty of it? It's the challenge that excites us engineers. It's the thrill of solving a complex problem, of creating something new and groundbreaking. And I believe I can achieve this because I have the passion, the determination, and most importantly, the support of a fantastic engineering community."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "That was a good response, Eve. Now, let's wrap this up with a bang."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "So, let's not forget why we're here. We're here to push boundaries, to challenge the status quo, to create a better future. And I promise you, I will not rest until I've created that game-changing mechanical device. And I hope to see all of you there when it happens. Because it's not just my dream, it's our dream. Thank you."
+      }
+    ],
+    "location": "National Engineering Convention",
+    "background": ".",
+    "source": "seed_dialogue_18"
+  },
+  {
+    "setting": [
+      "On a long-distance train ride, two women, Evelyn 'Eve' Sparks and Aurelia Hartley, are seated opposite each other. The rhythmic clatter of the train on the tracks punctuates their conversation as the landscape outside the window changes from a concrete jungle to open farmlands. Their shared compartment is filled with the soft glow of the overhead lights and the occasional rustle of pages as Aurelia flips through her sketchbook."
+    ],
+    "emotion": "Happy",
+    "topic": [
+      "Discussing Interests"
+    ],
+    "dialogue": [
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This journey is the perfect opportunity to share my ideas. I hope she finds them as fascinating as I do."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "You know, Aurelia, I've always been passionate about mechanical engineering. It's the idea of creating something new, something revolutionary, that excites me. I dream of designing a mechanical device that would change the industry as we know it. Isn't it amazing how a simple idea can transform into a tangible piece of technology that can make our lives easier?"
+      },
+      {
+        "role": "Aurelia Hartley",
+        "action": "(speaking)",
+        "content": "Oh, definitely! As a painter, I can relate to that feeling, Evelyn. The thrill of creating something new, something that's uniquely yours, is indeed exhilarating. Just as you create with gears and mechanisms, I create with colors and strokes. Each brush stroke brings a new element to the canvas, just like each component you add brings your devices closer to reality."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "That's a beautiful way to put it, Aurelia. It's fascinating how our fields, though fundamentally different, share this common thread of creation and innovation."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "It's great to find someone who understands the joy of creation, even if it's in a different field."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "In my field, there's always something new to learn and explore. The constant evolution of technology keeps me on my toes. It's like solving a new puzzle every day, and the satisfaction when you finally find the solution is indescribable."
+      },
+      {
+        "role": "Aurelia Hartley",
+        "action": "(speaking)",
+        "content": "I can only imagine, Eve. The world of art isn't much different. New techniques, new styles, evolving trends – it's a constant learning process. And the joy of finally seeing your vision come to life on canvas, it's truly rewarding."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Indeed, Aurelia. It's this shared passion for creation and innovation that bridges the gap between our fields. Our tools and mediums might be different, but the essence remains the same – to create something meaningful, something that makes a difference."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(thinking)",
+        "content": "This conversation has been quite insightful. It's refreshing to see things from a different perspective."
+      },
+      {
+        "role": "Evelyn 'Eve' Sparks",
+        "action": "(speaking)",
+        "content": "Aurelia, I must say, your paintings sound as fascinating as my mechanical devices. I'd love to see your work sometime. I'm sure there's a lot I can learn from your creative process."
+      },
+      {
+        "role": "Aurelia Hartley",
+        "action": "(speaking)",
+        "content": "I'd love that, Eve. And I'd also love to see your creations sometime. It's always exciting to learn about new things, and I have a feeling your world of mechanical engineering is full of wonders waiting to be discovered."
+      }
+    ],
+    "location": "Train",
+    "background": ".",
+    "source": "seed_dialogue_19"
+  }
+]
