@@ -1,7 +1,11 @@
 # SimsChat: A Customisable Persona-Driven Role-Playing Agent
 
-## Characters  contains the profiles of characters
-## Scene contains the scenes
-## Dialogues contains the dialogues
-## Interview contains the interview questions
+Characters:  the generated profiles of characters
 
+Scene: the generated scenes
+
+Dialogues: the generated dialogues
+
+Interview: the generated interview questions
+
+training_data: the date for training open-sourced LLMs
