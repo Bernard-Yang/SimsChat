@@ -171,11 +171,3 @@ to embark on adventures of their own.<|eot|>"
 
 ### Citation
 If you found this repository or paper is helpful to you, please cite our paper.
-```
-@article{yang2024crafting,
-  title={Crafting Customisable Characters with LLMs: Introducing SimsChat, a Persona-Driven Role-Playing Agent Framework},
-  author={Yang, Bohao and Liu, Dong and Tang, Chen and Xiao, Chenghao and Zhao, Kun and Li, Chao and Yuan, Lin and Yang, Guang and Huang, Lanxiao and Lin, Chenghua},
-  journal={arXiv preprint arXiv:2406.17962},
-  year={2024}
-```
-}
